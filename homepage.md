@@ -3,18 +3,70 @@ section: homepage
 permalink: /
 ---
 
-### About {{ page.event_name }}
+### How to be a part of {{ page.event_name }}
 
-tktk
+**[Our call for participation form is open](/participation/form)** with an April 25 deadline for session proposals.
+
+Our [call for participation form](/participation/form/) includes questions to tell us about all the ways you might want to participate at SRCCON, including as an attendee or a session facilitator. If invited to attend or facilitate a session, you will have the chance to purchase a ticket with [prices starting at $125 plus fees](/attendees/#tickets).
 
 
-### About the program
+**Key Dates for Your Calendar**:
 
-**Wednesday-Friday, June 22-24, 2022**
+* **Monday, April 25**: Deadline to submit session proposals and stipend applications using our call for participation form
+* **By Wednesday, May 4**: Facilitators, attendees, and stipend applicants will be notified
+* **After May 4**: We'll review "I'd like to attend" submissions on a rolling basis until the conference
+* **June 22-24**: SRCCON 2022, online!
 
-* **Talks:** The three talks on our program this year create a common foundation to build on during conversations throughout the week. SRCCON participants can watch them in advance and submit questions ahead of time, or join us live to watch the talks and participate in Q&As with the speakers.
-* **Sessions:** Participatory sessions create space to get into the biggest problems facing journalism, together. Community members will facilitate peer conversations and hands-on workshops that draw on the experience of every attendee in the (Zoom) room.
-* **Meetups & group conversations:** SRCCON makes time for a set of sessions about life at work and outside of it — hobbies, games, and other activities. Some are on the schedule, some will happen in the Slack, and others will emerge organically throughout the week.
+This year will be our third digital SRCCON, and we're building an online space based on what we collectively value about the physical experience and what we cherished about the online experience in the past two years. 
+
+Curious about how it all works? Learn more about [the SRCCON attendee experience](/attendees). The [participation form](/participation/form) will help you tell us how you'd like to be part of {{ page.event_name }}, and our [session proposal guide](/sessions/proposal-guide/) can help you shape ideas for the program. There won't be a separate ticket lottery or sale date, so if you want to come to {{ page.event_name }}, our call for participation will be how to let us know! As space remains available, we will keep the call for participation open for tickets only, but submitting the form early is your best chance to attend.
+
+
+### When & Where
+
+June 22-24, online! [Reserve the specific blocks on your calendar →](/attendees)
+
+<table class="time-blocks">
+  <thead>
+    <th>Date</th>
+    <th>Blocks (all in ET)</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>June 22 (Wed)</td>
+      <td>
+        <ul>
+          <li>11am - 2pm</li>
+          <li>Break</li>
+          <li>4pm - 7pm</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>June 23 (Thurs)</td>
+      <td>
+        <ul>
+          <li>12pm - 3pm</li>
+          <li>Break</li>
+          <li>5pm - 8pm</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>June 24 (Fri)</td>
+      <td>
+        <ul>
+          <li>10am - 1pm</li>
+          <li>Break</li>
+          <li>3pm - 6pm</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+Learn more about our how we'll make the schedule together, and other [information attendees need to know](/attendees).
+
 
 ### What you can expect
 
@@ -44,7 +96,7 @@ SRCCON participants are developers, designers, journalists, editors, and allies:
 
 [Ticket prices start at $125](/attendees/#tickets), plus ticketing fees. We'll also offer a limited number of need-based, [free scholarship tickets as well as $250 stipends](/scholarships) for attendees whose time to attend would otherwise be uncompensated.
 
-SRCCON events don't have open sale dates or lotteries. If you want to come to SRCCON 2021, our [call for participation](/participation/form) is how to let us know.
+SRCCON events don't have open sale dates or lotteries. If you want to come to {{ page.event_name }}, our [call for participation](/participation/form) is how to let us know.
 
 ### What's next
 
