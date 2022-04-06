@@ -14,7 +14,7 @@ Our [call for participation form](/participation/form/) includes questions to te
 
 * **Monday, April 25**: Deadline to submit session proposals and stipend applications using our call for participation form
 * **By Wednesday, May 4**: Facilitators, attendees, and stipend applicants will be notified
-* **After May 4**: We'll review "I'd like to attend" submissions on a rolling basis until the conference
+* **After May 4**: We'll review more "I'd like to attend" submissions on a rolling basis until the conference
 * **June 22-24**: SRCCON 2022, online!
 
 This year will be our third digital SRCCON, and we're building an online space based on what we collectively value about the physical experience and what we cherished about the online experience in the past two years. 
@@ -24,7 +24,7 @@ Curious about how it all works? Learn more about [the SRCCON attendee experience
 
 ### When & Where
 
-June 22-24, online! [Reserve the specific blocks on your calendar →](/attendees)
+June 22-24, online!
 
 <table class="time-blocks">
   <thead>

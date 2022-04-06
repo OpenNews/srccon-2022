@@ -20,6 +20,7 @@ The scholarship ticket will be one of the options on the ticket purchase page, s
 ## Who should apply
  
 The tickets are for:
+
 * Anyone in the journalism-tech community who is unable to purchase a ticket to attend, in particular laid-off, unemployed, and freelance journalists
 * Tickets are prioritized for members of communities underrepresented in journalism and technology, such as journalists of color, and journalists from smaller and non-coastal newsrooms.
 
@@ -33,7 +34,7 @@ Questions to apply for the stipend are included in the call for participation fo
 
 ## When notifications go out
 
-The stipend notifications will go out on April 25.
+The stipend notifications will go out on May 4.
 
 ## What happens after the event
 
@@ -43,7 +44,7 @@ You tell us how it went! We'll send you a short followup survey and will be exci
 
 We want to make sure that SRCCON events include the diversity of the communities we serve—geographically, demographically, experientially, and more. In the past, we've offered this scholarship because we know that travel costs can be a hardship, and offered this scholarship as a way to help mitigate that. We've adapted the scholarship this year in response to the acute financial situation facing many journalists during the pandemic.
 
-## How do you decide who will receive a stipends?
+## How do you decide who will receive stipends?
 
 OpenNews staff reviews all applications. We prioritize applications from members of communities underrepresented in journalism and technology, such as journalists of color, and journalists from smaller and non-coastal newsrooms.
 
