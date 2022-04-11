@@ -16,15 +16,15 @@ We’re seeking sponsors for SRCCON events, which host hundreds of participants 
 
 ### 👏 PARTNERSHIP SPONSORS
 
-Support all aspects of the conference planning and program. Partnership sponsors have maximum visibility — your support makes SRCCON possible.
+Support all aspects of the conference planning and program. Partnership sponsors have maximum visibility—your support makes SRCCON possible.
 
 ### 👉 ACCESSIBILITY SPONSORS
 
-You’re directly supporting our live transcription and scholarship programs. Accessibility is one of our most visible sponsorships across the entire program — because you are helping us make SRCCON available to as many people as possible.
+You’re directly supporting our live transcription and scholarship programs. Accessibility is one of our most visible sponsorships across the entire program—because you are helping us make SRCCON available to as many people as possible.
 
 ### 🙌 BREAK SPONSORS
 
-Create spaces for attendees to connect in virtual hallways and hangout spaces. We know that these spaces have created lifelong connections between participants, and extremely meaningful.
+Create spaces for attendees to connect in virtual hallways and hangout spaces. We know that these spaces have created lifelong connections between participants, and are extremely meaningful.
 
 ### 👌 EVENT SPONSORS
 

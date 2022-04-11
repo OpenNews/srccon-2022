@@ -6,17 +6,17 @@ title: Session proposal guide
 
 # Session proposal guide
 
-Are you thinking about [proposing a session](/participation/form) for {{ page.event_name }}? We'll have your back throughout the entire process—before, during, and after the conference. Here are some answers to questions that might be on your mind right now, and if you're curious about anything else, [please let us know](mailto:srccon@opennews.org)!
+Are you thinking about [proposing a session](/participation/form) for {{ page.event_name }}? We'll have your back throughout the process. Here are some answers to questions that might be on your mind right now, and if you're curious about anything else, [please let us know](mailto:srccon@opennews.org)!
 
 ## Key dates
 
 * **Monday, April 25**: Deadline to submit session proposals and stipend applications using our call for participation form
 * **By Wednesday, May 4**: Facilitators and stipend applicants will be notified
-* **June 22-24**: SRCCON 2021, online!
+* **June 22-24**: SRCCON 2022, online!
 
 ## How will participatory sessions work at an online conference?
 
-{{ page.event_name }} will be online-only, and just like last year, we're excited about the ways that will make this event accessible to even more people. We've traded in easels, sharpies, and post-it notes for a set of digital collaboration tools, and here's how all of that will work:
+{{ page.event_name }} will be online, and we're excited about the ways that will make this event accessible to even more people. We've traded in easels, sharpies, and post-it notes for a set of digital collaboration tools, and here's how all of that will work:
 
 * Sessions will take place over video on Zoom, which helps us best support accessibility, participation, and security. We'll also share a set of documents and platforms for facilitators to use in collaboration and brainstorming work.
 * We're asking all session facilitators to work with at least one cofacilitator. Facilitation teams are popular at every SRCCON—it's super helpful in representing different perspectives and backgrounds, plus it's just nice to share the work with someone! When an event is online, facilitators may need to respond to many different things, from shaky internet connections to keeping an eye on threads of participant comments, and we think teams will help everything run much more smoothly.
@@ -67,9 +67,9 @@ And we believe that conferences like SRCCON are where amazing work only _begins_
 
 ## Is there any financial support for session facilitators? Do facilitators have to purchase a ticket?
 
-Yes, financial support is available. We have both free [scholarship tickets and stipends](/scholarships) to help you attend or cover unpaid time preparing to facilitate your session. Because SRCCON is a collaborative, peer-to-peer event, we ask that all participants, including facilitators, buy a ticket. This [approach to ticketing](/attendees/#tickets) is part of how we make the event accessible to as many people as we can. 
+Yes, financial support is available. We have both free [scholarship tickets and stipends](/scholarships) to help you attend or cover unpaid time preparing to facilitate your session.
 
-If you or your company are not able to pay for a ticket, when it's time to purchase your ticket, there will be an option right on the Eventbrite registration form to pick up a free scholarship ticket directly.
+Because SRCCON is a collaborative, peer-to-peer event, we ask that all participants, including facilitators, pick up a ticket. This [approach to ticketing](/attendees/#tickets) is part of how we make the event accessible to as many people as we can. If you or your company are not able to pay for a ticket, there will be an option right on the Eventbrite registration form to pick up a free scholarship ticket directly.
 
 This year, we're also offering $250 stipends to facilitators whose time preparing for their session would otherwise be uncompensated. If this applies to you, you can apply for a stipend when you're proposing your session in our [call for participation form](/participation/form).
 
@@ -77,7 +77,9 @@ This year, we're also offering $250 stipends to facilitators whose time preparin
 
 ## What happens when the conference is over?
 
-One of the most exhilirating things for us as conference organizers is to see people go out and DO THE WORK. Maybe that'll be you, as a session leader, with newfound energy after talking through how you're changing the ways your organization operates. Maybe it's an attendee who learned something new in _your_ session, and takes home a plan to change their community's relationship with journalism. There are so many exciting things that can happen when passionate people get together at an event like SRCCON. And we want to help you plan for those outcomes! If there's something you'd like to build together or move forward after the event is over, we're here to support that work. We just want you to tell us what you need.
+One of the most exhilarating things for us as conference organizers is to see people go out and DO THE WORK. Maybe that'll be you, as a session leader, with newfound energy after sharing how you're changing your organization. Maybe it'll be an attendee who learned something new in _your_ session, and takes home a plan to change their community's relationship with journalism.
+
+There are so many exciting things that can happen when passionate people get together at an event like SRCCON. And we want to help you plan for those outcomes! If there's something you'd like to build together or move forward after the event is over, we're here to support that work. We just want you to tell us what you need.
 
 ## Additional resources
  

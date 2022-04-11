@@ -8,7 +8,7 @@ title: Stipends and Scholarships
 
 We want to help you attend {{ page.event_name }}: We're offering a free ticket for folks who need it and a stipend to support the participation of anyone who would not otherwise be compensated for their time during the conference.
 
-The scholarship ticket will be one of the options on the ticket purchase page, so you can just pick up that free ticket directly. The stipend is for attendees whose time to participate or facilitate is otherwise not compensated or who need to pay for support so that they can participate, such as because of caregiving responsibilities. Questions for the stipend are part of our [call for participation form](/participation/form).
+The scholarship ticket will be one of the options on the ticket purchase page, so you can just pick up that free ticket directly. The stipend is for attendees whose employers aren't compensating them for the time they spend participating, or for people who need to pay for support such as caregiving so they can participate. Stipend application questions are part of our [call for participation form](/participation/form).
 
 ### About the scholarship and stipend process
 
@@ -21,12 +21,12 @@ The scholarship ticket will be one of the options on the ticket purchase page, s
  
 The tickets are for:
 
-* Anyone in the journalism-tech community who is unable to purchase a ticket to attend, in particular laid-off, unemployed, and freelance journalists
+* Anyone in the journalism-tech community who is unable to purchase a ticket to attend—in particular laid-off, unemployed, and freelance journalists.
 * Tickets are prioritized for members of communities underrepresented in journalism and technology, such as journalists of color, and journalists from smaller and non-coastal newsrooms.
 
 The stipends are for:
 
-* Anyone eligible for a ticket, whose time to participate or facilitate is otherwise not compensated, or who need to pay for support so that they can participate, such as because of caregiving responsibilities.
+* Anyone eligible for a ticket, whose employers aren't compensating them for the time they spend participating, or for people who need to pay for support such as caregiving so they can participate.
 
 ## How to apply
 

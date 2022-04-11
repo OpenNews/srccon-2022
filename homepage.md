@@ -10,7 +10,7 @@ permalink: /
 Our [call for participation form](/participation/form/) includes questions to tell us about all the ways you might want to participate at SRCCON, including as an attendee or a session facilitator. If invited to attend or facilitate a session, you will have the chance to purchase a ticket with [prices starting at $125 plus fees](/attendees/#tickets).
 
 
-**Key Dates for Your Calendar**:
+**Key dates for your calendar**:
 
 * **Monday, April 25**: Deadline to submit session proposals and stipend applications using our call for participation form
 * **By Wednesday, May 4**: Facilitators, attendees, and stipend applicants will be notified
@@ -65,7 +65,7 @@ June 22-24, online!
   </tbody>
 </table>
 
-Learn more about our how we'll make the schedule together, and other [information attendees need to know](/attendees).
+Learn more about how we'll make the schedule together, and other [information attendees need to know](/attendees).
 
 
 ### What you can expect
