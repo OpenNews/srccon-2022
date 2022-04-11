@@ -93,7 +93,7 @@ If you have any questions at all about ticket pricing, [please reach out](mailto
 We're offering two types of financial assistance to support your ability to join us for {{ page.event_name }}:
 
 * **Free scholarship tickets** for anyone who otherwise would not be able to attend
-* **Stipends** to support the participation of attendees whose time to participate or facilitate is otherwise not compensated or who need to pay for support so that they can participate, such as because of caregiving responsibilities
+* **Stipends** to support attendees whose employers aren't compensating them for the time they spend participating, or for people who need to pay for support such as caregiving so they can participate.
 
 Get more information on who should apply and how to apply on our [Stipends and Scholarships page](/scholarships).
 
