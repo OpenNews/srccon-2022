@@ -17,7 +17,7 @@ Our deadline for proposing sessions has already passed, but we'll keep our [call
 
 This year will be our third digital SRCCON, and we're building an online space based on what we collectively value about the physical experience and what we cherished about the online experience in the past two years. 
 
-Curious about how it all works? Learn more about [the SRCCON attendee experience](/attendees). The [participation form](/participation/form) will help you tell us how you'd like to be part of {{ page.event_name }}, and our [session proposal guide](/sessions/proposal-guide/) can help you shape ideas for the program. There won't be a separate ticket lottery or sale date, so if you want to come to {{ page.event_name }}, our call for participation will be how to let us know! As space remains available, we will keep the call for participation open for tickets only, but submitting the form early is your best chance to attend.
+Curious about how it all works? Learn more about [the SRCCON attendee experience](/attendees), and the [participation form](/participation/form) will help you tell us how you'd like to be part of {{ page.event_name }}. There won't be a separate ticket lottery or sale date, so if you want to come to {{ page.event_name }}, our call for participation will be how to let us know! As space remains available, we will keep the call for participation open for tickets only, but submitting the form early is your best chance to attend.
 
 
 ### When & Where

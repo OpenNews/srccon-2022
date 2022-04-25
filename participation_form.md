@@ -6,7 +6,7 @@ title: Call for Participation
 
 # Call for participation
 
-We can't wait to hear how you'd like to participate at {{ page.event_name }}! If you want to attend or [participate in any way](/attendees), this one form is where to let us know. The deadline to propose a session has already passed, and we'll keep this form open for attendees as long as space remains available.
+We can't wait to hear how you'd like to participate at {{ page.event_name }}! If you want to attend or [take part in any way](/attendees), this one form is where to let us know. The deadline to propose a session has already passed, and we'll keep this form open for attendees as long as space remains available.
 
 After we review your form, we will let you know whether you are invited to attend. If so, we will send a link so you can purchase a ticket to {{ page.event_name }}, with <a href="/attendees/#tickets">prices starting at $125 plus fees</a>.
 
