@@ -7,7 +7,7 @@ description: At SRCCON 2022, everyone participates in some way. Our hands-on ses
 
 # Participation at {{ page.event_name }}
 
-{{ page.event_name }} is a hands-on conference, where everyone who attends actively participates throughout the event. Our [call for participation form is now open](/participation/form), with an April 25 deadline for session proposals and rolling deadline for attendees. If you'd like to be part of {{ page.event_name }}, use that form to let us know how. If you're thinking about proposing a session, check out our [session proposal guide](/sessions/proposal-guide/).
+{{ page.event_name }} is a hands-on conference, where everyone who attends actively participates throughout the event. Our [call for participation form is now open](/participation/form). The deadline to propose a session has already passed, and we'll keep this form open for attendees as long as space remains available. If you'd like to be part of {{ page.event_name }}, use that form to let us know how.
 
 ## Making the schedule together
 
@@ -66,7 +66,7 @@ Our [call for participation form](/participation/form) has a few questions for y
 
 We keep SRCCON events intentionally small, and this online event will be no different. We're planning for about 300 participants. Even though a physical venue isn't constraining the size of the crowd this year, the collaborative, interactive nature of SRCCON just doesn't scale in the same way a talks-only conference can. The relatively small size of {{ page.event_name }} means we need to be intentional about equitably distributing tickets and ensuring that there are a mix of perspectives and skills at {{ page.event_name }}. Our [call for participation form](/participation/form) will help us understand who would like to take part and what you want to get out of it. With those responses, we'll work to create a schedule and audience that reflects the dynamic interests and needs of this community.
 
-The deadline for session proposals and stipend applications is April 25, and we'll keep the form open for attendees as long as we can. If invited, you will have the chance to purchase a ticket starting at $125 plus fees.
+We review the call for participation forms on a rolling basis, and within a week or so we will let applicants know whether they will be invited to attend. If invited, you will have the chance to purchase a ticket starting at $125 plus fees.
 
 <span id="tickets"></span>
 
@@ -92,14 +92,14 @@ If you have any questions at all about ticket pricing, [please reach out](mailto
 
 We're offering two types of financial assistance to support your ability to join us for {{ page.event_name }}:
 
-* **Free scholarship tickets** for anyone who otherwise would not be able to attend
+* **Free scholarship tickets** for anyone who otherwise would not be able to attend.
 * **Stipends** to support attendees whose employers aren't compensating them for the time they spend participating, or for people who need to pay for support such as caregiving so they can participate.
 
 Get more information on who should apply and how to apply on our [Stipends and Scholarships page](/scholarships).
 
 ## Facilitating sessions
 
-At SRCCON events, session facilitators regularly make up more than a third of attendees. All of our sessions are peer-led by conference attendees—consider becoming a facilitator this year by [learning more about sessions](/sessions/proposal-guide). You will be able to tell us all about your session idea on the [call for participation form](/participation/form). 
+At SRCCON events, session facilitators regularly make up more than a third of attendees. All of our sessions are peer-led by conference attendees—the deadline for proposals this year has passed, but we'd love to hear your ideas for the program next time!
 
 ## Welcome, first-timers
 

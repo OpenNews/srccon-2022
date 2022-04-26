@@ -1,14 +1,14 @@
 ---
 section: sponsors
-permalink: /sponsors/
-title: Our sponsors
+permalink: /sponsors/about/
+title: Why sponsor SRCCON now
 ---
 
 # Why sponsor SRCCON now
 
 For journalism-technologists and newsroom leaders, SRCCON is a place to “recharge, reset, and reimagine.” You can help make that happen.
 
-SRCCON events have adapted to be fully online, while remaining interactive and a place for real connection. As one attendee put it, SRCCON​ “made me more confident about my media, my future, made me realize I was not alone in my view of journalism, it gave me hope for a journalism that truly represents me!”
+SRCCON events have adapted to be fully online, while remaining interactive and a place for real connection. As one attendee put it, SRCCON​ _“made me more confident about my media, my future, made me realize I was not alone in my view of journalism, it gave me hope for a journalism that truly represents me!”_
 
 ## Ways to sponsor SRCCON and help make it possible
 
@@ -60,10 +60,10 @@ People come first at SRCCON. Each event is set up to allow participants to focus
 * Sessions dig into best practices for all kinds of teams and so many techniques, including sustaining diversity efforts, supporting colleagues through grief, managing COVID-19 data projects, working on data with editors without a data background, developing skills as a manager, and more.
 * A schedule designed around our facilitated session format enables attendees to engage deeply in a purposeful way.
 
-“You all are leading the way on how to have a great conference that is welcoming for everyone, and someday the tech industry will be so much better off when it adopts what you’ve done.”
+_“You all are leading the way on how to have a great conference that is welcoming for everyone, and someday the tech industry will be so much better off when it adopts what you’ve done.”_
 
-“This was the first conference I’ve been a part of where I felt I belonged on every level.”
+_“This was the first conference I’ve been a part of where I felt I belonged on every level.”_
 
-“My job very much straddles the line between technology and the newsroom and in 20 years of being in the newspaper (media) business, this is the first conference I’ve been to that I felt like was specifically for me. I could contribute meaningfully to every session I went to.”
+_“My job very much straddles the line between technology and the newsroom and in 20 years of being in the newspaper (media) business, this is the first conference I’ve been to that I felt like was specifically for me. I could contribute meaningfully to every session I went to.”_
 
 Interested in having your company or organization become a sponsor of SRCCON? [Get in touch with OpenNews Co-Executive Director Erika Owens today.](mailto:erika@opennews.org)

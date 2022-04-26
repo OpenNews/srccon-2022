@@ -30,11 +30,11 @@ The stipends are for:
 
 ## How to apply
 
-Questions to apply for the stipend are included in the call for participation form. The scholarship ticket will be available through the registration process, no separate application necessary. 
+Questions to apply for the stipend are included in the call for participation form. The deadline for stipends was April 25, and we are evaluating whether we can accept additional applications for stipends. The scholarship ticket will be available through the registration process, no separate application necessary.
 
 ## When notifications go out
 
-The stipend notifications will go out on May 4.
+The stipend notifications will go out on May 4 for everyone who applied by April 25.
 
 ## What happens after the event
 
