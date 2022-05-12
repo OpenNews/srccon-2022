@@ -13,9 +13,15 @@
   },
   {
     "id": "cms-show-tell",
-    "title": "CMS Show & Tell [working title]",
+    "title": "CMS/Visual story tools show & tell [working title]",
     "facilitators": "John-Michael Murphy, Upasna Gautam",
     "description": "Full description coming soon!"
+  },
+  {
+    "id": "collaboration-large-datasets",
+    "title": "Collaborating on large datasets across multiple newsrooms",
+    "facilitators": "Derek Kravitz",
+    "description": "You have a large dataset — covering several counties, an entire state, or even every census tract or MSA in the U.S. — and the best path forward is collaborating with other newsrooms. So how do you start? We’ll explore best practices in collecting and sharing data; how to approach potential collaborative partners; how to build out workflows, expectations, and scheduling with partners; and even what to plan for when you publish, including how to engage with your audience and community and how best to present your findings.\n\nFacilitators will leverage experiences participating in several projects including air quality sensor data from both California and Chicago, which resulted in multiple newsroom consortiums with NPR and the new Chicago Sun-Times/WBEZ nonprofit model; an evolving childcare project covering all of Michigan, with partners that include the Detroit Free-Press, Bridge Michigan, Outlier Media and the small newsroom, the Traverse City Record-Eagle; and the Documenting COVID-19 project's Uncounted death certificate error series, shortlisted for a Sigma Award as one of the country’s top data projects, which relied on seven reporters across five newsrooms in the USA TODAY network, including those in Mississippi, Missouri and Louisiana."
   },
   {
     "id": "polarized-science",
@@ -27,7 +33,7 @@
     "id": "trans-stories-cultural-awareness",
     "title": "Covering trans stories with cultural awareness, evidence, and data",
     "facilitators": "Kae Petrin",
-    "description": "Trans and nonbinary people are increasingly in the news, as states pass laws regulating access to healthcare, sports teams, and educational materials. But when you’re trying to frame stories about these issues, it can be hard to cut through misinformation, much less resolve ethical concerns. Even legacy media outlets that set the tone for industry coverage have outdated style guides. \n\nJoin a facilitated discussion on how to cover policies and data that impact an estimated 1.4 million adults and 150,000 youth in the United States. We’ll address best practices for: developing internal style guides, using flawed or limited data, asking about pronouns and identity, and finding sources to fact-check common misinformation.\n\nIf you feel like it, please come with examples of your newsroom’s written policies on quoting trans sources and covering trans issues! We will discuss some sample policies that are already publicly available."
+    "description": "Trans and nonbinary people are increasingly in the news, as states pass laws regulating access to healthcare, sports teams, and educational materials. But when you’re trying to frame stories about these issues, it can be hard to cut through misinformation, much less resolve ethical concerns. Even legacy media outlets that set the tone for industry coverage have outdated style guides.\n\nJoin a facilitated discussion on how to cover policies and data that impact an estimated 1.4 million adults and 150,000 youth in the United States. We’ll address best practices for: developing internal style guides, using flawed or limited data, asking about pronouns and identity, and finding sources to fact-check common misinformation.\n\nIf you feel like it, please come with examples of your newsroom’s written policies on quoting trans sources and covering trans issues! We will discuss some sample policies that are already publicly available."
   },
   {
     "id": "ending-things-well",
@@ -171,6 +177,6 @@
     "id": "lessons-covid-data",
     "title": "What lessons have we learned from publishing COVID data trackers?",
     "facilitators": "Darla Cameron, Ryan Murphy",
-    "description": "Full description coming soon!"
+    "description": "COVID-19 threw journalists everywhere into a daily data-tracking exercise with no notice and no guardrails. The pandemic brought skills and techniques normally reserved for well-understood topics like elections to the forefront of our coverage plans—without nearly enough time to make sure we understood the data ourselves, let alone communicate what it meant to readers.\n\nWe've overhauled our workflows; we've struggled with missing and incomplete data; we've stretched our teams and our development environments to their limits. A few years into this experiment (and collective experience), we need to take a step back and reflect:\n\n* Are we making data-driven dashboards for our readers or ourselves?\n* How do we keep sight of the fact that each number in these datasets represents a human life?\n* Projects like these draw a lot of traffic and praise—but are we staying focused on what's most valuable to the public?\n* And what did we learn (if anything!) that can contribute to other collaborative workflows?\n\nOur hope is to come out of this conversation with better ideas for tackling the technical and editorial logistics behind *very* open-ended data projects."
   }
 ]

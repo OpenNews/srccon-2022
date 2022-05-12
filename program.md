@@ -6,11 +6,17 @@ title: Our Program
 
 # Our Program
 
-The SRCCON program is [hands-on and participatory](/attendees/), built around collaborative workshops and conversations, a series of thematic talks, and peer-led social activities. We'll continue to add details here as we get closer to SRCCON—starting right now with the amazing set of community-led sessions on this year's program!
+The SRCCON program is [hands-on and participatory](/attendees/), full of collaborative workshops and conversations, a series of thematic talks, and peer-led social activities. We'll continue to add details here as we get closer to SRCCON!
+
+## Talks
+
+We'll have three talks on our program this year—one each day, also available to watch in advance. Talks at SRCCON help create a foundation we can build on during conversations throughout the week.
+
+_More details about each talk coming soon!_
 
 ## Sessions 
 
-We have a few session details and facilitators still to confirm, and some descriptions here may evolve between now and SRCCON. Thank you to everyone who submitted proposals, and to the [community panel](#community-review) that helped us during the review process! Our conference schedule this year will include the sessions below.
+Thank you to everyone who submitted proposals, and to the [community panel](#community-review) that helped us during the review process! We have a few session details and facilitators still to confirm, and some descriptions here may evolve between now and SRCCON. Our conference schedule this year will include the sessions below.
 
 <div class="session-proposal-list">{% comment %}The one-line if statement below is ugly but prevents massive whitespace in the template{% endcomment %}
 {% for proposal in site.data.sessions %}
