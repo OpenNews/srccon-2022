@@ -6,7 +6,9 @@ title: Our Program
 
 # Our Program
 
-The SRCCON program is [hands-on and participatory](/attendees/), full of collaborative workshops and conversations, a series of thematic talks, and peer-led social activities. We'll continue to add details here as we get closer to SRCCON!
+The following sessions have been confirmed so far for {{ page.event_name }}. Thank you to everyone who submitted proposals! We still have a handful of sessions left to finalize, and descriptions here will evolve in the weeks leading up to {{ page.event_name }}.
+
+We'll publish the complete schedule in early June.
 
 ## Talks
 
@@ -16,7 +18,7 @@ _More details about each talk coming soon!_
 
 ## Sessions 
 
-Thank you to everyone who submitted proposals, and to the [community panel](#community-review) that helped us during the review process! We have a few session details and facilitators still to confirm, and some descriptions here may evolve between now and SRCCON. Our conference schedule this year will include the sessions below.
+Thank you to the [community panel](#community-review) that helped us during our review process! Our conference schedule this year will include the sessions below.
 
 <div class="session-proposal-list">{% comment %}The one-line if statement below is ugly but prevents massive whitespace in the template{% endcomment %}
 {% for proposal in site.data.sessions %}
