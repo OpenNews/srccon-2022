@@ -28,6 +28,20 @@
     "transcription": ""
   },
   {
+    "id": "exploitative-hiring-tests",
+    "title": "Are your newsroom hiring tests exploitative? Let's discuss",
+    "facilitators": "Kathy Lu",
+    "description": "If newsrooms are truly working toward a more inclusive and fair workplace, then that must also apply to how job candidates are treated. Some things to consider: Do you pay candidates for the time they spend on hiring tests? Do you know what you're testing for? Do you really need them to edit a 2,000-word story, write a cover letter that guesses at what you want to hear, or spend hours crafting a story that you get to publish for free?\n\nNewsrooms have not traditionally considered the application process from the candidate's point of view. Yet this is the person's first interaction with your organization. If you say you're a newsroom that values a person's time, how do you show it in the application process? This session will offer some ideas that will hopefully jumpstart more from the room.",
+    "day": "",
+    "timeblock": "",
+    "time": "",
+    "everyone": "",
+    "talk": "",
+    "social": "",
+    "break": "",
+    "transcription": ""
+  },
+  {
     "id": "cms-show-tell",
     "title": "CMS/Visual story tools show & tell [working title]",
     "facilitators": "John-Michael Murphy, Upasna Gautam",
@@ -74,6 +88,20 @@
     "title": "Covering trans stories with cultural awareness, evidence, and data",
     "facilitators": "Kae Petrin",
     "description": "Trans and nonbinary people are increasingly in the news, as states pass laws regulating access to healthcare, sports teams, and educational materials. But when you’re trying to frame stories about these issues, it can be hard to cut through misinformation, much less resolve ethical concerns. Even legacy media outlets that set the tone for industry coverage have outdated style guides.\n\nJoin a facilitated discussion on how to cover policies and data that impact an estimated 1.4 million adults and 150,000 youth in the United States. We’ll address best practices for: developing internal style guides, using flawed or limited data, asking about pronouns and identity, and finding sources to fact-check common misinformation.\n\nIf you feel like it, please come with examples of your newsroom’s written policies on quoting trans sources and covering trans issues! We will discuss some sample policies that are already publicly available.",
+    "day": "",
+    "timeblock": "",
+    "time": "",
+    "everyone": "",
+    "talk": "",
+    "social": "",
+    "break": "",
+    "transcription": ""
+  },
+  {
+    "id": "public-newsroom",
+    "title": "Demystifying the public newsroom: How to involve lots of community members in your newsgathering",
+    "facilitators": "Lynelle Herndon, Noah Kincade",
+    "description": "Detroit Documenters creates value for the city of Detroit and the media partners that participate in the program. But what does it take to manage all these people and to hand over some of the newsroom's power to them? Hear about growing pains, tips, and the transformative change that can come from working in this way.",
     "day": "",
     "timeblock": "",
     "time": "",
@@ -168,20 +196,6 @@
     "transcription": ""
   },
   {
-    "id": "public-newsroom",
-    "title": "How to actually manage lots of members of the public coming into your newsroom",
-    "facilitators": "Lynelle Herndon, Noah Kincade",
-    "description": "Detroit Documenters creates value for the city of Detroit and the media partners that participate in the program. But what does it take to manage all these people and to hand over some of the newsroom's power to them? Hear about growing pains, tips, and the transformative change that can come from working in this way.",
-    "day": "",
-    "timeblock": "",
-    "time": "",
-    "everyone": "",
-    "talk": "",
-    "social": "",
-    "break": "",
-    "transcription": ""
-  },
-  {
     "id": "reclaim-your-time",
     "title": "How to figure out what to stop doing and reclaim your time",
     "facilitators": "Shirley Qiu, Yoli Martinez",
@@ -210,10 +224,10 @@
     "transcription": ""
   },
   {
-    "id": "fanfiction-objectivity",
-    "title": "If no one’s got me, Archive of our Own’s got me: Fanfiction as a tool for questioning objectivity, strengthening imagination and forming online community",
-    "facilitators": "Janelle Salanga, Holly Rosewood",
-    "description": "Have you ever stumbled upon a story about Y/N? Fallen down a rabbit hole of Archive of our Own, Wattpad, LiveJournal or Fanfiction.net, or wondered what people are talking about when they mention those sites? This session is for you — whether you’ve been a Gleek, a Directioner, an avid reader of My Hero Academia or Marvel fanfiction or have no idea what a headcanon is, let’s talk about it!\n\nFanfiction is exactly what it says: fans of a piece of media creating their own fictional stories — “headcanons” — within that world, whether it’s based in real life or fantasy. Both fanfiction and journalism exist on the same spectrum of objectivity, even if they’re on different ends: People make choices about what stories they’re telling, whose narratives they’re centering and what words they use to describe them. One of the ways journalism and fanfiction diverge that this session will cover: Fanfiction in itself is a sort of science fiction; we’re writing about an existence that is possible within the confines of an already existing world. By engaging with fanfiction and related communities, we have a chance to learn more about what it means to explore our identities, develop narratives which center the agency of marginalized communities and connect with folks from different backgrounds via common ground about a world that might be better than our own.",
+    "id": "conflict-approach",
+    "title": "Identifying your approach to conflict and leveraging it in difficult conversations",
+    "facilitators": "Carol Zuegner, Mary Lee Brock",
+    "description": "Journalists report on conflict, but how do they deal with conflict in their own newsrooms and organizations? The question of engaging with conflict is more important than ever in lean organizations with diverse people performing so many different and cross-functional roles. Staying with and engaging in newsroom/organization conflict is not something that comes naturally to many journalists/tech people. Conflict can be perceived as disruptive and unprofessional. Many may avoid engaging in conflict because of a lack of skills, lack of perceived accountability, lack of time or fear of retaliation or a perception that engaging will not result in productive change. But in creative spaces, skillful conflict engagement from top down and bottom up can lead to better collaboration and better outcomes. This interactive session will provide participants with the opportunity to identify and analyze their conflict styles and then apply those concepts. A conflict engagement professional/professor and journalist/professor will lead the session and provide takeaways for your organization.",
     "day": "",
     "timeblock": "",
     "time": "",
@@ -224,10 +238,10 @@
     "transcription": ""
   },
   {
-    "id": "exploitative-hiring-tests",
-    "title": "Is your newsroom edit test exploitative? let's discuss",
-    "facilitators": "Kathy Lu",
-    "description": "If newsrooms are truly working toward a more inclusive and fair workplace, then that must also apply to how job candidates are treated. Some things to consider: Do you pay candidates for their time to do an edit test? Do you know what you're testing for? Do you really need them to edit a 2,000 word story?\n\nNewsrooms have not traditionally considered the application process from the candidate's point of view. Yet this is the person's first interaction with your organization. If you say you're a newsroom that values a person's time, how do you show it in the application process? This session will offer some ideas that will hopefully jumpstart more from the room.",
+    "id": "fanfiction-objectivity",
+    "title": "If no one’s got me, Archive of our Own’s got me: Fanfiction as a tool for questioning objectivity, strengthening imagination and forming online community",
+    "facilitators": "Janelle Salanga, Holly Rosewood",
+    "description": "Have you ever stumbled upon a story about Y/N? Fallen down a rabbit hole of Archive of our Own, Wattpad, LiveJournal or Fanfiction.net, or wondered what people are talking about when they mention those sites? This session is for you — whether you’ve been a Gleek, a Directioner, an avid reader of My Hero Academia or Marvel fanfiction or have no idea what a headcanon is, let’s talk about it!\n\nFanfiction is exactly what it says: fans of a piece of media creating their own fictional stories — “headcanons” — within that world, whether it’s based in real life or fantasy. Both fanfiction and journalism exist on the same spectrum of objectivity, even if they’re on different ends: People make choices about what stories they’re telling, whose narratives they’re centering and what words they use to describe them. One of the ways journalism and fanfiction diverge that this session will cover: Fanfiction in itself is a sort of science fiction; we’re writing about an existence that is possible within the confines of an already existing world. By engaging with fanfiction and related communities, we have a chance to learn more about what it means to explore our identities, develop narratives which center the agency of marginalized communities and connect with folks from different backgrounds via common ground about a world that might be better than our own.",
     "day": "",
     "timeblock": "",
     "time": "",
@@ -266,24 +280,10 @@
     "transcription": ""
   },
   {
-    "id": "conflict-approach",
-    "title": "Leveraging your approach to conflict in difficult conversations",
-    "facilitators": "Carol Zuegner, Mary Lee Brock",
-    "description": "Journalists report on conflict, but how do they deal with conflict in their own newsrooms and organizations? The question of engaging with conflict is more important than ever in lean organizations with diverse people performing so many different and cross-functional roles. Staying with and engaging in newsroom/organization conflict is not something that comes naturally to many journalists/tech people. Conflict can be perceived as disruptive and unprofessional. Many may avoid engaging in conflict because of a lack of skills, lack of perceived accountability, lack of time or fear of retaliation or a perception that engaging will not result in productive change. But in creative spaces, skillful conflict engagement from top down and bottom up can lead to better collaboration and better outcomes. This interactive session will provide participants with the opportunity to identify and analyze their conflict styles and then apply those concepts. A conflict engagement professional/professor and journalist/professor will lead the session and provide takeaways for your organization.",
-    "day": "",
-    "timeblock": "",
-    "time": "",
-    "everyone": "",
-    "talk": "",
-    "social": "",
-    "break": "",
-    "transcription": ""
-  },
-  {
     "id": "realities-web-accessibility",
     "title": "No mouse, no monitor: How does your site hold up? The realities of web accessibility",
     "facilitators": "Lindsay Grow",
-    "description": "How would you navigate the digital world without sight? What about if you didn't have the dexterity to use a mouse or a trackpad? In this workshop, you'll learn the basics of web accessibility and the tools available to differently abled people online.  We will task groups with navigating online news sites in an attempt to accomplish a goal, leaving you with a better understanding of the obstacles the disabled community persistently encounter when getting news.",
+    "description": "How would you navigate the digital world without sight? What about if you didn't have the dexterity to use a mouse or a trackpad? In this workshop, you'll learn the basics of web accessibility and the tools available to differently abled people online. We will task groups with navigating online news sites in an attempt to accomplish a goal, leaving you with a better understanding of the obstacles that people in the disabled community persistently encounter when getting news.",
     "day": "",
     "timeblock": "",
     "time": "",
@@ -381,7 +381,7 @@
     "id": "unintended-consequences-coverage",
     "title": "Unintended consequences of our coverage: What do we do when people interpret stories & data in bad faith?",
     "facilitators": "Andrew Ba Tran, Lam Thuy Vo",
-    "description": "Full description coming soon!",
+    "description": "We no longer consume news through a handful of TV channels and newspapers—even the best journalism now moves through a media ecosystem full of cable commentary, social media, politically motivated actors, and motivated readers. And that makes it possible for our most well-meaning work, the accurate and illuminating coverage that people really need, to get remixed or misused in service of horrifying, harmful narratives.\n\nSo what should we do when readers draw selfish or wrong conclusions from our stories or data analysis? Like when researchers said that white Americans became less empathetic and less fearful of COVID-19 after reading about how COVID-19 disproportionately impacts poorer people and communities of color. Or when data about clinical, gender-expansive care for children was scraped by conspiracy theorists and used to target those providers.\n\nThe old tenets of journalism tell us we should just present the data and let people draw their own conclusions. But what responsibility do we have when some of those conclusions are terrible?",
     "day": "",
     "timeblock": "",
     "time": "",

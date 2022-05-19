@@ -548,6 +548,31 @@ footer li {
     color: #00000082;
 }
 
+header .sourcecon .trailer {
+    font-size: 1.2em;
+    overflow: hidden;
+    font-style: italic;
+ }
+header .sourcecon .trailer > span {
+    position: relative;
+    display: inline-block;
+}
+header .sourcecon .trailer > span:before,
+header .sourcecon .trailer > span:after{
+    content: '';
+    position: absolute;
+    top: 50%;
+    border-bottom: 1px solid;
+    width: 4.5em;
+    margin: 0 .5em;
+}
+header .sourcecon .trailer > span:before {
+    right: 100%;
+}
+header .sourcecon .trailer > span:after{
+    left: 100%;
+}
+
 #footer-sponsors .page-container {
     margin-bottom: 1em;
 }

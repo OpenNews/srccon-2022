@@ -7,7 +7,7 @@ description: At SRCCON 2022, everyone participates in some way. Our hands-on ses
 
 # Participation at {{ page.event_name }}
 
-{{ page.event_name }} is a hands-on conference, where everyone who attends actively participates throughout the event. Our [call for participation form is now open](/participation/form). The deadline to propose a session has already passed, and we'll keep this form open for attendees as long as space remains available. If you'd like to be part of {{ page.event_name }}, use that form to let us know how.
+{{ page.event_name }} is a hands-on conference, where everyone who attends actively participates throughout the event. Our [call for participation form is now open](/participation/form). If you'd like to be part of {{ page.event_name }}, use that form to let us know how.
 
 ## Making the schedule together
 
@@ -51,6 +51,8 @@ We’ll be gathering over three days, with generous breaks. Reserve these 3-hour
     </tr>
   </tbody>
 </table>
+
+We've published a [list of accepted sessions](/program), so take a look at what we have planned for this year. We'll release the full schedule in early June.
 
 Having SRCCON online means that we’ll be able to make the event accessible across time zones and differing circumstances. Each 3-hour block will include some combination of one talk with Q&A, one 75-minute session, and a hobby discussion or social meetup. Not everyone will be able to attend every session, and that’s okay. As a participant, we want you to be able to come when you can, and step back when you need.
 

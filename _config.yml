@@ -25,7 +25,7 @@ defaults:
       # event_year: set this value to something like 2022
       event_year: 2022
       # event_place: set this value to something like Minneapolis
-      event_place: online!
+      event_place: Online!
       # event_place_abbreviation: set this value to something like MPLS
       event_place_abbreviation: ONLINE
       # description: this value is used for meta tags AND the top of the homepage
