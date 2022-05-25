@@ -86,7 +86,7 @@
   {
     "id": "trans-stories-cultural-awareness",
     "title": "Covering trans stories with cultural awareness, evidence, and data",
-    "facilitators": "Kae Petrin",
+    "facilitators": "Kae Petrin, Ændra Rininsland",
     "description": "Trans and nonbinary people are increasingly in the news, as states pass laws regulating access to healthcare, sports teams, and educational materials. But when you’re trying to frame stories about these issues, it can be hard to cut through misinformation, much less resolve ethical concerns. Even legacy media outlets that set the tone for industry coverage have outdated style guides.\n\nJoin a facilitated discussion on how to cover policies and data that impact an estimated 1.4 million adults and 150,000 youth in the United States. We’ll address best practices for: developing internal style guides, using flawed or limited data, asking about pronouns and identity, and finding sources to fact-check common misinformation.\n\nIf you feel like it, please come with examples of your newsroom’s written policies on quoting trans sources and covering trans issues! We will discuss some sample policies that are already publicly available.",
     "day": "",
     "timeblock": "",
@@ -114,7 +114,7 @@
   {
     "id": "ending-things-well",
     "title": "Ending things well",
-    "facilitators": "Lisa Waananen Jones",
+    "facilitators": "Lisa Waananen Jones, Danielle Alberti",
     "description": "Most projects in journalism won't run forever, but we often launch them without knowing when or how the end will come. In this session, we'll discuss practical approaches and considerations for sunsetting projects, such as trackers, tech products, long-running series and collaborations. Why are some endings satisfying and others disappointing, and what works well for preserving projects without creating ghosts of unfinished business? Drawing on lessons from other industries such as documentary filmmaking, education, sports and hospice care, we'll discuss what makes an ending a good one and how to manage less-than-ideal endings.",
     "day": "",
     "timeblock": "",
@@ -156,7 +156,7 @@
   {
     "id": "make-freelance-work-better",
     "title": "How can we make news nerd freelance work better for everyone?",
-    "facilitators": "Soo Oh, Greg Linch",
+    "facilitators": "Soo Oh, Greg Linch, Vignesh Ramachandran",
     "description": "How might we change and improve the relationships between commissioning editors and freelance journalists who work in data, graphics, or news apps? The past couple years of the pandemic have changed the labor market for the foreseeable future. There's a growing pool of data/graphics/dev journalists who quit their newsrooms and struck out on their own with the hopes of choosing the kind of work they wanted to do. At the same time, some editors are struggling to keep up with internal demand on their teams' bandwidth and have some budget to hire contractors. We would love to know how to better connect these groups.\n\nIf you’ve ever done that kind of work as a freelancer/contractor, hired one, or are interested in doing either, then we want to hear from you. What works well? What could be improved? We’ll discuss these topics and create a guide that can be used by all parties. From recruiting candidates to finding opportunities to creating contracts and managing projects, let’s make this process better for everyone.",
     "day": "",
     "timeblock": "",
@@ -266,6 +266,20 @@
     "transcription": ""
   },
   {
+    "id": "climate-change-audience",
+    "title": "Let's design climate change coverage that our audience actually wants (and walk out with a framework for covering other wicked problems, too)",
+    "facilitators": "Ariel Zirulnick, Rodrigo Cervantes",
+    "description": "Climate change is one of the most wicked problems our communities face–and for too long we’ve been throwing the standard journalism playbook at it: alarming headlines, beautiful data visualizations and expert sources, all crafted for mass consumption.\n\nIt’s not working. When you write for everyone, the result is general climate emergency coverage that resonates with no one and fades from memory within hours of being published.\n\nThat’s why in 2022, KPCC/LAist set out to redesign its coverage of the climate emergency through human-centered design research. We started with a few key questions: How do Southern Californians experience climate change, how can we lower barriers to understanding, and what type of information is most relevant and useful in their daily lives? We emerged from 20 interviews with a new set of guiding principles for the beat and four archetypes of climate change information seekers to serve: the stuck, the practically minded, the high information connectors, and the low information connectors.\n\nIn this session we will introduce you to our coverage principles and our four archetypes, and you’ll hear from our climate emergency editor about how this research has influenced their view of the beat. Then we’ll move into breakout groups; each group will be given a different archetype to design a prototype for. We’ll reconvene to share everyone’s ideas. (We were inspired by the SRCCON 2021 session led by Lindsay Abrams, where she did something similar.)\n\nYou’ll leave the session for a blueprint of how your own newsroom can tackle climate change and other wicked problems in a way that is relevant and reflective of your community’s experiences.",
+    "day": "",
+    "timeblock": "",
+    "time": "",
+    "everyone": "",
+    "talk": "",
+    "social": "",
+    "break": "",
+    "transcription": ""
+  },
+  {
     "id": "leaving-journalism",
     "title": "Let’s talk about leaving journalism",
     "facilitators": "Hannah Birch",
@@ -352,7 +366,7 @@
   {
     "id": "soft-power-strategies",
     "title": "Soft Power: Strategies for change agents with no formal authority",
-    "facilitators": "Lindsay Abrams",
+    "facilitators": "Lindsay Abrams, Gaby Brenes",
     "description": "We're innovators. Product thinkers. Transformers of culture. We're everything our newsrooms need...if only anyone would let us implement our ideas.\n\nToo often, the people ready to introduce real, radical, positive change at their organizations aren't the ones given the authority to do so. Even the people tasked with being change agents aren't always given the institutional backing needed to make change happen.\n\nIn this problem may lie an opportunity, because leading by influence can turn out to be a more effective tool, in the long run, than a top-down approach. Is soft power just what traditional power needs to become?\n\nIn this session, we'll share stories and strategies for becoming leaders regardless of title and in the face of individual and structural challengers of that power. How can we amass soft power at our organizations, while building communities of support and resilience? What are the skills we can build that allow us to be as effective, if not more, than a formal manager? And what are the changes that are worth putting ourselves on the line for?",
     "day": "",
     "timeblock": "",
@@ -364,10 +378,10 @@
     "transcription": ""
   },
   {
-    "id": "climate-change-audience",
-    "title": "Let's design climate change coverage that our audience actually wants (and walk out with a framework for covering other wicked problems, too)",
-    "facilitators": "Ariel Zirulnick, Rodrigo Cervantes",
-    "description": "Climate change is one of the most wicked problems our communities face–and for too long we’ve been throwing the standard journalism playbook at it: alarming headlines, beautiful data visualizations and expert sources, all crafted for mass consumption.\n\nIt’s not working. When you write for everyone, the result is general climate emergency coverage that resonates with no one and fades from memory within hours of being published.\n\nThat’s why in 2022, KPCC/LAist set out to redesign its coverage of the climate emergency through human-centered design research. We started with a few key questions: How do Southern Californians experience climate change, how can we lower barriers to understanding, and what type of information is most relevant and useful in their daily lives? We emerged from 20 interviews with a new set of guiding principles for the beat and four archetypes of climate change information seekers to serve: the stuck, the practically minded, the high information connectors, and the low information connectors.\n\nIn this session we will introduce you to our coverage principles and our four archetypes, and you’ll hear from our climate emergency editor about how this research has influenced their view of the beat. Then we’ll move into breakout groups; each group will be given a different archetype to design a prototype for. We’ll reconvene to share everyone’s ideas. (We were inspired by the SRCCON 2021 session led by Lindsay Abrams, where she did something similar.)\n\nYou’ll leave the session for a blueprint of how your own newsroom can tackle climate change and other wicked problems in a way that is relevant and reflective of your community’s experiences.",
+    "id": "source-security",
+    "title": "Taking care with source security when reporting on abortion",
+    "facilitators": "Martin Shelton, Olivia Martin, Jessica Bruder",
+    "description": "At a moment when the legal status of abortion rights across the U.S. is in question, many newsrooms are unsure how to report on the issue without putting abortion providers and activists at risk of legal action, violence, and harassment. Many are doing work that might be perfectly legal one week, and made illegal the next week. Reporting on this beat could \"out\" activists and providers who do not want to be identified. Some of these communities have developed stronger security practices, and demand the same of reporters who want to speak to them. We also have to ask: What is our role in minimizing risk to sources when reporting on abortion rights? Considering the many digital trails that could identify someone—whether electronic communications or location data connecting them to an abortion provider—what can we do to minimize risk?\n\nFreedom of the Press Foundation and journalist Jessica Bruder want to facilitate a session on risk minimization strategies, with a mind to the operational security practices seen in reporting in the wild. Through this discussion, we will build on each others' understanding and produce some concrete recommendations for reporters and those who may assist reporters in digital security practices.",
     "day": "",
     "timeblock": "",
     "time": "",
