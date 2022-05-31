@@ -42,23 +42,9 @@
     "transcription": ""
   },
   {
-    "id": "cms-show-tell",
-    "title": "CMS/Visual story tools show & tell [working title]",
-    "facilitators": "John-Michael Murphy, Upasna Gautam",
-    "description": "Full description coming soon!",
-    "day": "",
-    "timeblock": "",
-    "time": "",
-    "everyone": "",
-    "talk": "",
-    "social": "",
-    "break": "",
-    "transcription": ""
-  },
-  {
     "id": "collaboration-large-datasets",
     "title": "Collaborating on large datasets across multiple newsrooms",
-    "facilitators": "Derek Kravitz",
+    "facilitators": "Derek Kravitz, Dillon Bergin",
     "description": "You have a large dataset — covering several counties, an entire state, or even every census tract or MSA in the U.S. — and the best path forward is collaborating with other newsrooms. So how do you start? We’ll explore best practices in collecting and sharing data; how to approach potential collaborative partners; how to build out workflows, expectations, and scheduling with partners; and even what to plan for when you publish, including how to engage with your audience and community and how best to present your findings.\n\nFacilitators will leverage experiences participating in several projects including air quality sensor data from both California and Chicago, which resulted in multiple newsroom consortiums with NPR and the new Chicago Sun-Times/WBEZ nonprofit model; an evolving childcare project covering all of Michigan, with partners that include the Detroit Free-Press, Bridge Michigan, Outlier Media and the small newsroom, the Traverse City Record-Eagle; and the Documenting COVID-19 project's Uncounted death certificate error series, shortlisted for a Sigma Award as one of the country’s top data projects, which relied on seven reporters across five newsrooms in the USA TODAY network, including those in Mississippi, Missouri and Louisiana.",
     "day": "",
     "timeblock": "",
@@ -336,6 +322,20 @@
     "transcription": ""
   },
   {
+    "id": "programming-speed-news",
+    "title": "Programming at the Speed of News: Demos and Discussion",
+    "facilitators": "John-Michael Murphy, Upasna Gautam",
+    "description": "As both the speed of news and our journalistic ambitions increase, the CMSes we use to tell stories often become major bottlenecks. In this session, newsrooms across the industry will demo the systems they’ve developed to publish ambitious, innovative journalism at the speed of news. And we'll discuss how to balance the seemingly contradictory requirements put on any publishing system: usability, repeatability, customizability, and speed.",
+    "day": "",
+    "timeblock": "",
+    "time": "",
+    "everyone": "",
+    "talk": "",
+    "social": "",
+    "break": "",
+    "transcription": ""
+  },
+  {
     "id": "difficult-newsroom-conversations",
     "title": "Q&A: How to have difficult conversations in newsrooms",
     "facilitators": "Destinée-Charisse Royal",
@@ -408,8 +408,22 @@
   {
     "id": "unlearning-bad-manager-habits",
     "title": "Unlearning journalism's bad habits: Manager's edition",
-    "facilitators": "Paul Cheung",
-    "description": "The pandemic has blurred the division between our work and family lives, and shifted what we value. It has fundamentally reshaped our relationship with work. Newsroom managers can no longer assume journalism as usual. More and more, journalists are challenging traditional newsroom culture and systems from presenteeism to management style to performance evaluation to work-life balance. Let's design an adoptable newsroom management framework that focus on empathy, flexibility and share-ownership in order to unlock your team's full potential.",
+    "facilitators": "Paul Cheung, Shannan Bowen",
+    "description": "The pandemic has blurred the division between our work and family lives, and shifted what we value. It has fundamentally reshaped our relationship with work. Newsroom managers can no longer assume journalism as usual. More and more, journalists are challenging traditional newsroom culture and systems from presenteeism to management style to performance evaluation to work-life balance. Let's design an adoptable newsroom management framework that focuses on empathy, flexibility and share-ownership in order to unlock your team's full potential.",
+    "day": "",
+    "timeblock": "",
+    "time": "",
+    "everyone": "",
+    "talk": "",
+    "social": "",
+    "break": "",
+    "transcription": ""
+  },
+  {
+    "id": "respond-calls-accountability",
+    "title": "Watching the Watchdog: How a newsroom can respond to calls for accountability",
+    "facilitators": "Tauhid Chappell, Jameel Rush, Sabrina Vourvoulias",
+    "description": "What happens when a local news outlet prints, publishes or broadcasts  coverage that harms a community, and the community organizes to respond? Learn some advice and tips from Philadelphia organizers and the Philadelphia Inquirer on what journalists and newsroom management can do externally and internally to not only engage in deep listening around community concerns, but incorporate community information needs and recommendations that help structurally change how newsrooms improve, reconcile and address potentially harmful reporting.",
     "day": "",
     "timeblock": "",
     "time": "",
