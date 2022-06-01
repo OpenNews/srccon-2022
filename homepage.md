@@ -5,9 +5,11 @@ permalink: /
 
 ### How to be a part of {{ page.event_name }}
 
-**[Join us June 22-24 at SRCCON 2022!](/participation/form)** Fill out our [call for participation form](/participation/form) to let us know you'd like to participate—if invited to attend, you will have the chance to purchase a ticket with [prices starting at $125 plus fees](/attendees/#tickets).
+**[Our schedule for SRCCON 2022 is here!](/schedule)** Check out the amazing talks and sessions this community has planned for each day. And stay tuned, because we still have a bunch of social sessions and activities coming soon!
 
-We just published **[our list of accepted sessions](/program)**, so take a look at what we have planned for this year!
+↪ **[See the SRCCON schedule](/schedule)** 🎉
+
+If you'd like to [join us June 22-24 at SRCCON 2022](/participation/form), our [call for participation form](/participation/form) is where to let us know you want to participate. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $125 plus fees](/attendees/#tickets).
 
 **Key dates for your calendar**:
 
@@ -21,7 +23,7 @@ Curious about how it all works? Learn more about [the SRCCON attendee experience
 
 **Wednesday-Friday, June 22-24, 2022**
 
-As we finalize the details of our full schedule, you can check out the [list of accepted sessions](/program) so far. The entire program will consist of:
+You can [browse this year's program](/program) or check out the [official conference schedule](/schedule), with more social conversations and activities coming soon. The entire program will consist of:
 
 * **Talks:** The three talks on our program this year create a common foundation for conversations throughout the week. SRCCON participants can watch them in advance and submit questions ahead of time, or join us live to watch the talks and participate in Q&As with the speakers.
 * **Sessions:** Participatory sessions create space to get into the biggest problems facing journalism, together. Community members will facilitate peer conversations and hands-on workshops that draw on the experience of every attendee in the room.
