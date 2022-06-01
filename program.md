@@ -6,15 +6,15 @@ title: Our Program
 
 # Our Program
 
-The following sessions have been confirmed so far for {{ page.event_name }}. Thank you to everyone who submitted proposals! We still have a handful of sessions left to finalize, and descriptions here will evolve in the weeks leading up to {{ page.event_name }}.
-
-We'll publish the complete schedule in early June.
+[Our SRCCON 2022 schedule is here!](/schedule) Thank you so much to everyone who submitted proposals this year. Descriptions here may evolve in the weeks leading up to {{ page.event_name }}.
 
 ## Talks
 
 We'll have three talks on our program this year—one each day, also available to watch in advance. Talks at SRCCON help create a foundation we can build on during conversations throughout the week.
 
-_More details about each talk coming soon!_
+* **Sophie Ho & Yu Vongkiatkajorn** on leading pay studies and strategizing to create change in newsrooms.
+* **Phoebe Gavin & Jahna Berry** (more details on this talk coming soon!)
+* **Ko Bragg & Cierra Hinton** on rest as reparations, how 30 days of paid leave rejuvenated Scalawag’s newsroom, and why more newsrooms need to be facilitating rest.
 
 ## Sessions 
 
