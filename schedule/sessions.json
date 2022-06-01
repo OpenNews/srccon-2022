@@ -182,6 +182,20 @@
     "transcription": ""
   },
   {
+    "id": "wed-break-2",
+    "title": "Break",
+    "description": "",
+    "facilitators": "",
+    "day": "Wednesday",
+    "timeblock": "wed-515pm",
+    "time": "5:15-6pm ET",
+    "everyone": "",
+    "talk": "",
+    "social": "",
+    "break": "y",
+    "transcription": ""
+  },
+  {
     "id": "thu-opening",
     "title": "Thursday welcome",
     "description": "",
@@ -338,8 +352,8 @@
   {
     "id": "realities-web-accessibility",
     "title": "No mouse, no monitor: How does your site hold up? The realities of web accessibility",
-    "description": "How would you navigate the digital world without sight? What about if you didn't have the dexterity to use a mouse or a trackpad? In this workshop, you'll learn the basics of web accessibility and the tools available to differently abled people online. We will task groups with navigating online news sites in an attempt to accomplish a goal, leaving you with a better understanding of the obstacles that people in the disabled community persistently encounter when getting news.",
-    "facilitators": "Lindsay Grow",
+    "description": "How would you navigate the digital world without sight? What about if you didn't have the dexterity to use a mouse or a trackpad? In this workshop, you'll learn the basics of web accessibility and the tools available to disabled people online. We will task groups with navigating online news sites in an attempt to accomplish a goal, leaving you with a better understanding of the obstacles that people in the disabled community persistently encounter when getting news.",
+    "facilitators": "Lindsay Grow, Patrick Garvin",
     "day": "Thursday",
     "timeblock": "thu-5pm",
     "time": "5-6:15pm ET",
