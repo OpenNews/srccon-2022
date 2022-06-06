@@ -13,7 +13,7 @@ title: Our Program
 We'll have three talks on our program this year—one each day, also available to watch in advance. Talks at SRCCON help create a foundation we can build on during conversations throughout the week.
 
 * **Sophie Ho & Yu Vongkiatkajorn** on leading pay studies and strategizing to create change in newsrooms.
-* **Phoebe Gavin & Jahna Berry** (more details on this talk coming soon!)
+* **Phoebe Gavin & Jahna Berry** on retention, turnover, and building resilient news organizations where everyone can thrive.
 * **Ko Bragg & Cierra Hinton** on rest as reparations, how 30 days of paid leave rejuvenated Scalawag’s newsroom, and why more newsrooms need to be facilitating rest.
 
 ## Sessions 
