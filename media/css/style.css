@@ -446,7 +446,7 @@ main input {
     margin: 0 0 2.5em;
 }
 .hub .sponsor-block {
-    margin: 2em 0;
+    margin: 2.5em 0;
 }
 .sponsor-block img {
     width: 75%;
@@ -537,14 +537,14 @@ footer li {
     padding-bottom: 2em;
 }
 .hub footer #footer-sponsors {
-    margin-bottom: 2em;
+    margin-bottom: 1em;
 }
-.sourcecon .trailer {
+footer .sourcecon .trailer {
     padding: 0em;
     font-size: 1em;
     text-align: center;
     font-family: freight-text-pro, serif;
-    margin: 0;
+    margin-bottom: 2em;
     color: #00000082;
 }
 
