@@ -35,7 +35,7 @@ Interested in having your company or organization get involved? [Find out more a
 </div>
 
 <div class="sponsor-block secondary">
-    <a href="https://www.gannett.com/"><img src="/media/img/partners/gannett.png" alt="Gannett"></a>
+    <a href="https://gannett.com/careers"><img src="/media/img/partners/gannett.png" alt="Gannett"></a>
 </div>
 
 <div class="sponsor-block secondary">
