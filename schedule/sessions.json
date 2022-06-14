@@ -11,7 +11,7 @@
     "talk": "",
     "social": "",
     "break": "",
-    "transcription": ""
+    "transcription": "y"
   },
   {
     "id": "wed-talk",
@@ -25,7 +25,7 @@
     "talk": "y",
     "social": "",
     "break": "",
-    "transcription": ""
+    "transcription": "y"
   },
   {
     "id": "wed-break",
@@ -56,6 +56,20 @@
     "transcription": ""
   },
   {
+    "id": "climate-change-audience",
+    "title": "Let's design climate change coverage that our audience actually wants (and walk out with a framework for covering other wicked problems, too)",
+    "description": "Climate change is one of the most wicked problems our communities face–and for too long we’ve been throwing the standard journalism playbook at it: alarming headlines, beautiful data visualizations and expert sources, all crafted for mass consumption.\n\nIt’s not working. When you write for everyone, the result is general climate emergency coverage that resonates with no one and fades from memory within hours of being published.\n\nThat’s why in 2022, KPCC/LAist set out to redesign its coverage of the climate emergency through human-centered design research. We started with a few key questions: How do Southern Californians experience climate change, how can we lower barriers to understanding, and what type of information is most relevant and useful in their daily lives? We emerged from 20 interviews with a new set of guiding principles for the beat and four archetypes of climate change information seekers to serve: the stuck, the practically minded, the high information connectors, and the low information connectors.\n\nIn this session we will introduce you to our coverage principles and our four archetypes, and you’ll hear from our climate emergency editor about how this research has influenced their view of the beat. Then we’ll move into breakout groups; each group will be given a different archetype to design a prototype for. We’ll reconvene to share everyone’s ideas. (We were inspired by the SRCCON 2021 session led by Lindsay Abrams, where she did something similar.)\n\nYou’ll leave the session for a blueprint of how your own newsroom can tackle climate change and other wicked problems in a way that is relevant and reflective of your community’s experiences.",
+    "facilitators": "Ariel Zirulnick, Rodrigo Cervantes",
+    "day": "Wednesday",
+    "timeblock": "wed-1245pm",
+    "time": "12:45-2pm ET",
+    "everyone": "",
+    "talk": "",
+    "social": "",
+    "break": "",
+    "transcription": "y"
+  },
+  {
     "id": "handling-audience-criticism",
     "title": "How to deal with audience criticism when it's wrong ... and when it's right",
     "description": "It hurts when people publicly criticize our work. You put time, energy, care into your journalism, and blunt complaints can feel callous. The voices we hear are often harsh, not constructive, and when they throw barbs at you or those close to you, it can't help but feel personal, too.\n\nWe're not talking about accidents and errors here—we know how to respond to those with corrections. What we need to figure out is what to do with criticism that targets the assumptions we make as journalists, or attacks fundamental flaws in our practice. Sometimes our harshest critics are wrong, sure, but sometimes they see where we're missing perspectives, or failing them with reporting that doesn't push hard enough.\n\nSo how do we make sure we know the difference? Can we productively tell our critics when they're wrong? More importantly, can we admit to ourselves when they're right? How can we spot real opportunities to grow, to learn from the people engaging with our work, to reach into our communities and build trust? Let's talk about how to understand and address oppositional points of view in a pragmatic way, without compromising journalistic standards or personal beliefs.",
@@ -84,20 +98,6 @@
     "transcription": ""
   },
   {
-    "id": "climate-change-audience",
-    "title": "Let's design climate change coverage that our audience actually wants (and walk out with a framework for covering other wicked problems, too)",
-    "description": "Climate change is one of the most wicked problems our communities face–and for too long we’ve been throwing the standard journalism playbook at it: alarming headlines, beautiful data visualizations and expert sources, all crafted for mass consumption.\n\nIt’s not working. When you write for everyone, the result is general climate emergency coverage that resonates with no one and fades from memory within hours of being published.\n\nThat’s why in 2022, KPCC/LAist set out to redesign its coverage of the climate emergency through human-centered design research. We started with a few key questions: How do Southern Californians experience climate change, how can we lower barriers to understanding, and what type of information is most relevant and useful in their daily lives? We emerged from 20 interviews with a new set of guiding principles for the beat and four archetypes of climate change information seekers to serve: the stuck, the practically minded, the high information connectors, and the low information connectors.\n\nIn this session we will introduce you to our coverage principles and our four archetypes, and you’ll hear from our climate emergency editor about how this research has influenced their view of the beat. Then we’ll move into breakout groups; each group will be given a different archetype to design a prototype for. We’ll reconvene to share everyone’s ideas. (We were inspired by the SRCCON 2021 session led by Lindsay Abrams, where she did something similar.)\n\nYou’ll leave the session for a blueprint of how your own newsroom can tackle climate change and other wicked problems in a way that is relevant and reflective of your community’s experiences.",
-    "facilitators": "Ariel Zirulnick, Rodrigo Cervantes",
-    "day": "Wednesday",
-    "timeblock": "wed-1245pm",
-    "time": "12:45-2pm ET",
-    "everyone": "",
-    "talk": "",
-    "social": "",
-    "break": "",
-    "transcription": ""
-  },
-  {
     "id": "programming-speed-news",
     "title": "Programming at the Speed of News: Demos and Discussion",
     "description": "As both the speed of news and our journalistic ambitions increase, the CMSes we use to tell stories often become major bottlenecks. In this session, newsrooms across the industry will demo the systems they’ve developed to publish ambitious, innovative journalism at the speed of news. And we'll discuss how to balance the seemingly contradictory requirements put on any publishing system: usability, repeatability, customizability, and speed.",
@@ -105,20 +105,6 @@
     "day": "Wednesday",
     "timeblock": "wed-1245pm",
     "time": "12:45-2pm ET",
-    "everyone": "",
-    "talk": "",
-    "social": "",
-    "break": "",
-    "transcription": ""
-  },
-  {
-    "id": "soft-power-strategies",
-    "title": "Soft Power: Strategies for change agents with no formal authority",
-    "description": "We're innovators. Product thinkers. Transformers of culture. We're everything our newsrooms need...if only anyone would let us implement our ideas.\n\nToo often, the people ready to introduce real, radical, positive change at their organizations aren't the ones given the authority to do so. Even the people tasked with being change agents aren't always given the institutional backing needed to make change happen.\n\nIn this problem may lie an opportunity, because leading by influence can turn out to be a more effective tool, in the long run, than a top-down approach. Is soft power just what traditional power needs to become?\n\nIn this session, we'll share stories and strategies for becoming leaders regardless of title and in the face of individual and structural challengers of that power. How can we amass soft power at our organizations, while building communities of support and resilience? What are the skills we can build that allow us to be as effective, if not more, than a formal manager? And what are the changes that are worth putting ourselves on the line for?",
-    "facilitators": "Lindsay Abrams, Gaby Brenes",
-    "day": "Wednesday",
-    "timeblock": "wed-4pm",
-    "time": "4-5:15pm ET",
     "everyone": "",
     "talk": "",
     "social": "",
@@ -138,6 +124,20 @@
     "social": "",
     "break": "",
     "transcription": ""
+  },
+  {
+    "id": "soft-power-strategies",
+    "title": "Soft Power: Strategies for change agents with no formal authority",
+    "description": "We're innovators. Product thinkers. Transformers of culture. We're everything our newsrooms need...if only anyone would let us implement our ideas.\n\nToo often, the people ready to introduce real, radical, positive change at their organizations aren't the ones given the authority to do so. Even the people tasked with being change agents aren't always given the institutional backing needed to make change happen.\n\nIn this problem may lie an opportunity, because leading by influence can turn out to be a more effective tool, in the long run, than a top-down approach. Is soft power just what traditional power needs to become?\n\nIn this session, we'll share stories and strategies for becoming leaders regardless of title and in the face of individual and structural challengers of that power. How can we amass soft power at our organizations, while building communities of support and resilience? What are the skills we can build that allow us to be as effective, if not more, than a formal manager? And what are the changes that are worth putting ourselves on the line for?",
+    "facilitators": "Lindsay Abrams, Gaby Brenes",
+    "day": "Wednesday",
+    "timeblock": "wed-4pm",
+    "time": "4-5:15pm ET",
+    "everyone": "",
+    "talk": "",
+    "social": "",
+    "break": "",
+    "transcription": "y"
   },
   {
     "id": "exploitative-hiring-tests",
@@ -263,7 +263,7 @@
     "talk": "",
     "social": "",
     "break": "",
-    "transcription": ""
+    "transcription": "y"
   },
   {
     "id": "thu-talk",
@@ -277,7 +277,7 @@
     "talk": "y",
     "social": "",
     "break": "",
-    "transcription": ""
+    "transcription": "y"
   },
   {
     "id": "thu-break",
@@ -306,6 +306,20 @@
     "social": "",
     "break": "",
     "transcription": ""
+  },
+  {
+    "id": "lessons-covid-data",
+    "title": "What lessons have we learned from publishing COVID data trackers?",
+    "description": "COVID-19 threw journalists everywhere into a daily data-tracking exercise with no notice and no guardrails. The pandemic brought skills and techniques normally reserved for well-understood topics like elections to the forefront of our coverage plans—without nearly enough time to make sure we understood the data ourselves, let alone communicate what it meant to readers.\n\nWe've overhauled our workflows; we've struggled with missing and incomplete data; we've stretched our teams and our development environments to their limits. A few years into this experiment (and collective experience), we need to take a step back and reflect:\n\n* Are we making data-driven dashboards for our readers or ourselves?\n* How do we keep sight of the fact that each number in these datasets represents a human life?\n* Projects like these draw a lot of traffic and praise—but are we staying focused on what's most valuable to the public?\n* And what did we learn (if anything!) that can contribute to other collaborative workflows?\n\nOur hope is to come out of this conversation with better ideas for tackling the technical and editorial logistics behind *very* open-ended data projects.",
+    "facilitators": "Darla Cameron, Ryan Murphy",
+    "day": "Thursday",
+    "timeblock": "thu-130pm",
+    "time": "1:30-2:45pm ET",
+    "everyone": "",
+    "talk": "",
+    "social": "",
+    "break": "",
+    "transcription": "y"
   },
   {
     "id": "make-freelance-work-better",
@@ -350,13 +364,13 @@
     "transcription": ""
   },
   {
-    "id": "lessons-covid-data",
-    "title": "What lessons have we learned from publishing COVID data trackers?",
-    "description": "COVID-19 threw journalists everywhere into a daily data-tracking exercise with no notice and no guardrails. The pandemic brought skills and techniques normally reserved for well-understood topics like elections to the forefront of our coverage plans—without nearly enough time to make sure we understood the data ourselves, let alone communicate what it meant to readers.\n\nWe've overhauled our workflows; we've struggled with missing and incomplete data; we've stretched our teams and our development environments to their limits. A few years into this experiment (and collective experience), we need to take a step back and reflect:\n\n* Are we making data-driven dashboards for our readers or ourselves?\n* How do we keep sight of the fact that each number in these datasets represents a human life?\n* Projects like these draw a lot of traffic and praise—but are we staying focused on what's most valuable to the public?\n* And what did we learn (if anything!) that can contribute to other collaborative workflows?\n\nOur hope is to come out of this conversation with better ideas for tackling the technical and editorial logistics behind *very* open-ended data projects.",
-    "facilitators": "Darla Cameron, Ryan Murphy",
+    "id": "difficult-newsroom-conversations",
+    "title": "Q&A: How to have difficult conversations in newsrooms",
+    "description": "Whenever Destinée-Charisse Royal conducts her popular workshop on how to have difficult conversations in newsrooms, she shares steps to discuss racism, sexism and all manner of uncomfortable topics. At the end, there never seems to be enough time for questions. So in this session, she will zero in on a few key prep points — like offering your lenses and 10xing your empathy. The session may involve coming up with a reason that the chief suspect in a procedural TV show episode might actually be innocent. And then the floor will open for questions and discussions about how to approach the conversations we have been putting off.",
+    "facilitators": "Destinée-Charisse Royal, Caitlin Gilbert",
     "day": "Thursday",
-    "timeblock": "thu-130pm",
-    "time": "1:30-2:45pm ET",
+    "timeblock": "thu-5pm",
+    "time": "5-6:15pm ET",
     "everyone": "",
     "talk": "",
     "social": "",
@@ -375,21 +389,7 @@
     "talk": "",
     "social": "",
     "break": "",
-    "transcription": ""
-  },
-  {
-    "id": "difficult-newsroom-conversations",
-    "title": "Q&A: How to have difficult conversations in newsrooms",
-    "description": "Whenever Destinée-Charisse Royal conducts her popular workshop on how to have difficult conversations in newsrooms, she shares steps to discuss racism, sexism and all manner of uncomfortable topics. At the end, there never seems to be enough time for questions. So in this session, she will zero in on a few key prep points — like offering your lenses and 10xing your empathy. The session may involve coming up with a reason that the chief suspect in a procedural TV show episode might actually be innocent. And then the floor will open for questions and discussions about how to approach the conversations we have been putting off.",
-    "facilitators": "Destinée-Charisse Royal, Caitlin Gilbert",
-    "day": "Thursday",
-    "timeblock": "thu-5pm",
-    "time": "5-6:15pm ET",
-    "everyone": "",
-    "talk": "",
-    "social": "",
-    "break": "",
-    "transcription": ""
+    "transcription": "y"
   },
   {
     "id": "respond-calls-accountability",
@@ -532,6 +532,20 @@
     "transcription": ""
   },
   {
+    "id": "unlearning-bad-manager-habits",
+    "title": "Unlearning journalism's bad habits: Manager's edition",
+    "description": "The pandemic has blurred the division between our work and family lives, and shifted what we value. It has fundamentally reshaped our relationship with work. Newsroom managers can no longer assume journalism as usual. More and more, journalists are challenging traditional newsroom culture and systems from presenteeism to management style to performance evaluation to work-life balance. Let's design an adoptable newsroom management framework that focuses on empathy, flexibility and share-ownership in order to unlock your team's full potential.",
+    "facilitators": "Paul Cheung, Shannan Bowen",
+    "day": "Friday",
+    "timeblock": "fri-1130am",
+    "time": "11:30am-12:45pm ET",
+    "everyone": "",
+    "talk": "",
+    "social": "",
+    "break": "",
+    "transcription": "y"
+  },
+  {
     "id": "conflict-approach",
     "title": "Identifying your approach to conflict and leveraging it in difficult conversations",
     "description": "Journalists report on conflict, but how do they deal with conflict in their own newsrooms and organizations? The question of engaging with conflict is more important than ever in lean organizations with diverse people performing so many different and cross-functional roles. Staying with and engaging in newsroom/organization conflict is not something that comes naturally to many journalists/tech people. Conflict can be perceived as disruptive and unprofessional. Many may avoid engaging in conflict because of a lack of skills, lack of perceived accountability, lack of time or fear of retaliation or a perception that engaging will not result in productive change. But in creative spaces, skillful conflict engagement from top down and bottom up can lead to better collaboration and better outcomes. This interactive session will provide participants with the opportunity to identify and analyze their conflict styles and then apply those concepts. A conflict engagement professional/professor and journalist/professor will lead the session and provide takeaways for your organization.",
@@ -560,20 +574,6 @@
     "transcription": ""
   },
   {
-    "id": "unlearning-bad-manager-habits",
-    "title": "Unlearning journalism's bad habits: Manager's edition",
-    "description": "The pandemic has blurred the division between our work and family lives, and shifted what we value. It has fundamentally reshaped our relationship with work. Newsroom managers can no longer assume journalism as usual. More and more, journalists are challenging traditional newsroom culture and systems from presenteeism to management style to performance evaluation to work-life balance. Let's design an adoptable newsroom management framework that focuses on empathy, flexibility and share-ownership in order to unlock your team's full potential.",
-    "facilitators": "Paul Cheung, Shannan Bowen",
-    "day": "Friday",
-    "timeblock": "fri-1130am",
-    "time": "11:30am-12:45pm ET",
-    "everyone": "",
-    "talk": "",
-    "social": "",
-    "break": "",
-    "transcription": ""
-  },
-  {
     "id": "open-sourcing-internal-tools",
     "title": "From silos to solutions: Open-sourcing your newsroom's internal tools",
     "description": "Journalists often solve a lot of the same problems. Why not help each other out by open sourcing the tools we use to do our jobs? This session explores why open sourcing internal newsroom tools can be beneficial to the journalism community as a whole as well as best practices for building reusable and sustainable open source tooling.\n\nThis session is for developers and newsroom technologists who want to learn how to open source the tools they've built for their newsrooms along with those who don't know how to get started.",
@@ -581,20 +581,6 @@
     "day": "Friday",
     "timeblock": "fri-1130am",
     "time": "11:30am-12:45pm ET",
-    "everyone": "",
-    "talk": "",
-    "social": "",
-    "break": "",
-    "transcription": ""
-  },
-  {
-    "id": "unintended-consequences-coverage",
-    "title": "Unintended consequences of our coverage: What do we do when people interpret stories & data in bad faith?",
-    "description": "We no longer consume news through a handful of TV channels and newspapers—even the best journalism now moves through a media ecosystem full of cable commentary, social media, politically motivated actors, and motivated readers. And that makes it possible for our most well-meaning work, the accurate and illuminating coverage that people really need, to get remixed or misused in service of horrifying, harmful narratives.\n\nSo what should we do when readers draw selfish or wrong conclusions from our stories or data analysis? Like when researchers said that white Americans became less empathetic and less fearful of COVID-19 after reading about how COVID-19 disproportionately impacts poorer people and communities of color? Or when we cover the video of a viral crime and give people fodder to misinterpret it as a trend rather than an isolated incident?\n\nThe old tenets of journalism tell us we should just present the data and let people draw their own conclusions. But what responsibility do we have when some of those conclusions are terrible?",
-    "facilitators": "Andrew Ba Tran, Lam Thuy Vo",
-    "day": "Friday",
-    "timeblock": "fri-3pm",
-    "time": "3-4:15pm ET",
     "everyone": "",
     "talk": "",
     "social": "",
@@ -614,6 +600,20 @@
     "social": "",
     "break": "",
     "transcription": ""
+  },
+  {
+    "id": "unintended-consequences-coverage",
+    "title": "Unintended consequences of our coverage: What do we do when people interpret stories & data in bad faith?",
+    "description": "We no longer consume news through a handful of TV channels and newspapers—even the best journalism now moves through a media ecosystem full of cable commentary, social media, politically motivated actors, and motivated readers. And that makes it possible for our most well-meaning work, the accurate and illuminating coverage that people really need, to get remixed or misused in service of horrifying, harmful narratives.\n\nSo what should we do when readers draw selfish or wrong conclusions from our stories or data analysis? Like when researchers said that white Americans became less empathetic and less fearful of COVID-19 after reading about how COVID-19 disproportionately impacts poorer people and communities of color? Or when we cover the video of a viral crime and give people fodder to misinterpret it as a trend rather than an isolated incident?\n\nThe old tenets of journalism tell us we should just present the data and let people draw their own conclusions. But what responsibility do we have when some of those conclusions are terrible?",
+    "facilitators": "Andrew Ba Tran, Lam Thuy Vo",
+    "day": "Friday",
+    "timeblock": "fri-3pm",
+    "time": "3-4:15pm ET",
+    "everyone": "",
+    "talk": "",
+    "social": "",
+    "break": "",
+    "transcription": "y"
   },
   {
     "id": "reclaim-your-time",
@@ -655,7 +655,7 @@
     "talk": "y",
     "social": "",
     "break": "",
-    "transcription": ""
+    "transcription": "y"
   },
   {
     "id": "fri-closing",
@@ -669,6 +669,6 @@
     "talk": "",
     "social": "",
     "break": "",
-    "transcription": ""
+    "transcription": "y"
   }
 ]
