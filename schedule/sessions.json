@@ -182,20 +182,6 @@
     "transcription": ""
   },
   {
-    "id": "wed-social-block",
-    "title": "Social sessions and meetups",
-    "description": "Every day we'll have a set of sessions on topics of interest about life at work and outside of it, hobbies, games, and other activities. Many participants shared about their interests in the call for participation form, which will help us organize this set of sessions. If you'd like to lead one, email [erika@opennews.org](mailto:erika@opennews.org).",
-    "facilitators": "",
-    "day": "Wednesday",
-    "timeblock": "wed-530pm",
-    "time": "5:30-6:30pm ET",
-    "everyone": "",
-    "talk": "",
-    "social": "y",
-    "break": "",
-    "transcription": ""
-  },
-  {
     "id": "wed-social-fanfic",
     "title": "If no one’s got me, Archive of our Own’s got me: Fanfiction as a tool for questioning objectivity, strengthening imagination and forming online community",
     "description": "Have you ever stumbled upon a story about Y/N? Fallen down a rabbit hole of Archive of our Own, Wattpad, LiveJournal or Fanfiction.net, or wondered what people are talking about when they mention those sites? This session is for you — whether you’ve been a Gleek, a Directioner, an avid reader of My Hero Academia or Marvel fanfiction or have no idea what a headcanon is, let’s talk about it!\n\nFanfiction is exactly what it says: fans of a piece of media creating their own fictional stories — “headcanons” — within that world, whether it’s based in real life or fantasy. Both fanfiction and journalism exist on the same spectrum of objectivity, even if they’re on different ends: People make choices about what stories they’re telling, whose narratives they’re centering and what words they use to describe them. One of the ways journalism and fanfiction diverge that this session will cover: Fanfiction in itself is a sort of science fiction; we’re writing about an existence that is possible within the confines of an already existing world. By engaging with fanfiction and related communities, we have a chance to learn more about what it means to explore our identities, develop narratives which center the agency of marginalized communities and connect with folks from different backgrounds via common ground about a world that might be better than our own.",
@@ -435,8 +421,8 @@
   },
   {
     "id": "thu-social-block",
-    "title": "Social sessions and meetups",
-    "description": "Every day we'll have a set of sessions on topics of interest about life at work and outside of it, hobbies, games, and other activities. Many participants shared about their interests in the call for participation form, which will help us organize this set of sessions. If you'd like to lead one, email [erika@opennews.org](mailto:erika@opennews.org).",
+    "title": "Social sessions and meetups - add your idea!",
+    "description": "Every day we have a set of sessions on topics of interest about life at work and outside of it, hobbies, games, and other activities. We've got a spot or two left Thursday and Friday for emergent ideas during the conference. If you'd like to lead an emergent session, email [erika@opennews.org](mailto:erika@opennews.org).",
     "facilitators": "",
     "day": "Thursday",
     "timeblock": "thu-630pm",
@@ -483,20 +469,6 @@
     "day": "Thursday",
     "timeblock": "thu-630pm",
     "time": "6:30-7:30pm ET",
-    "everyone": "",
-    "talk": "",
-    "social": "y",
-    "break": "",
-    "transcription": ""
-  },
-  {
-    "id": "fri-social-block",
-    "title": "Social sessions and meetups",
-    "description": "Every day we'll have a set of sessions on topics of interest about life at work and outside of it, hobbies, games, and other activities. Many participants shared about their interests in the call for participation form, which will help us organize this set of sessions. If you'd like to lead one, email [erika@opennews.org](mailto:erika@opennews.org).",
-    "facilitators": "",
-    "day": "Friday",
-    "timeblock": "fri-10am",
-    "time": "10-11am ET",
     "everyone": "",
     "talk": "",
     "social": "y",
