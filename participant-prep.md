@@ -5,11 +5,11 @@ title: Preparing for SRCCON
 layout: mini_top
 ---
 
-# Preparing for SRCCON 2021
-As SRCCON approaches, here's everything you need to know to prepare for the conference and get setup. Once SRCCON is up and running, you'll spend most of your time on our [SRCCON 2021 Participant HQ on Eventbrite](/signin), and in our conference Slack.
+# Preparing for SRCCON 2022
+As SRCCON approaches, here's everything you need to know to prepare for the conference and get setup. Once SRCCON is up and running, you'll spend most of your time on our [SRCCON 2022 Participant HQ on Eventbrite](/signin), and in our conference Slack.
 
 ### KEY LINKS
-* ⭐️ [**SRCCON 2021 Participant HQ on Eventbrite**](/signin) ⭐️ — Where Zoom links for all SRCCON programming lives, as well as links to our Virtual Bulletin Board. Once SRCCON starts, you'll have this page open ALL the time. (Only SRCCON participants will be able to access this link.)
+* ⭐️ [**SRCCON 2022 Participant HQ on Eventbrite**](/signin) ⭐️ <br>All Zoom links for SRCCON programming are here! Once SRCCON starts, you'll have this page open ALL the time. (Only SRCCON participants will be able to access this link.)
 * [Public Schedule](/schedule/)
 * [Code of Conduct](/conduct/)
 * [Care and Support](/support/)
@@ -17,7 +17,7 @@ As SRCCON approaches, here's everything you need to know to prepare for the conf
 ### JUMP DIRECTLY
 
 * Setting up for SRCCON
-  * [Accessing SRCCON 2021 talks and sessions](#accessing-srccon-2021-talks-and-sessions)
+  * [Accessing SRCCON 2022 talks and sessions](#accessing-srccon-2022-talks-and-sessions)
   * [Virtual registration booth](#all-registered-step-right-up-to-the-virtual-registration-booth)
   * [Use our Slack to connect](#use-slack-to-network-and-connect-during-srccon)
 * SRCCON Program
@@ -35,10 +35,10 @@ As SRCCON approaches, here's everything you need to know to prepare for the conf
 
 ### SETTING UP FOR SRCCON
 
-## Accessing SRCCON 2021 talks and sessions
+## Accessing SRCCON 2022 talks and sessions
 
 #### If you don’t have a ticket yet: 
-Fill out our [call for participation form here](/participation/form/). Within 24 hours (if not sooner), we’ll email you a link to buy a ticket to the event or grab a scholarship ticket, if we still have space available. We’ll be checking this form at least once per day, so you’ll have the opportunity to join mid-event.
+Fill out our [call for participation form here](/participation/form/). Within an hour (if not sooner), we’ll email you a link to buy a ticket to the event or grab a scholarship ticket, if we still have space available. Even if SRCCON is already in progress, you’ll be able to join through Thursday, June 23, so don’t be afraid to join mid-event, especially if you want to catch a particular session or talk!
 
 #### If you have your ticket:
 Make sure you’ve [installed Zoom](https://zoom.us/download), and jump to the next section, our [virtual registration booth](#all-registered-step-right-up-to-the-virtual-registration-booth), to get setup!
@@ -54,7 +54,7 @@ Normally, you might be picking up your welcome packet and pronoun pins when you 
 <div class="icon"><img src="/media/img/name.png"></div>
 <div class="markdown" markdown="1">
 #### Step 1: Grab your name tag.
-Starting Tuesday, you can sign-up for our conference Slack. We’ll post this link permanently at the top of [our Eventbrite page](/signin/), and we’ll be emailing it to you directly too! Once you’ve signed up, [edit your Slack profile](https://slack.com/help/articles/204092246-Edit-your-profile#:~:text=Update%20your%20profile&text=From%20your%20desktop%2C%20click%20your,profile%2C%20then%20click%20Save%20Changes.)! At in-person SRCCON events, we always feature your name prominently, and we do _not_ display the name of your organization. Help us maintain our focus on each of you as people and not as employees, and leave your organization name off your Slack profile. (We’ve already hidden email addresses from all Slack profiles.) You can put in three of your passions or interests into the “What I do” section of your Slack profile as conversation starters instead!
+Starting Tuesday, June 21, you can sign-up for our conference Slack. We’ll post this link permanently at the top of [our Eventbrite page](/signin/), and we’ll be emailing it to you directly too! Once you’ve signed up, [edit your Slack profile](https://slack.com/help/articles/204092246-Edit-your-profile#:~:text=Update%20your%20profile&text=From%20your%20desktop%2C%20click%20your,profile%2C%20then%20click%20Save%20Changes.)! At in-person SRCCON events, we always feature your name prominently, and we do _not_ display the name of your organization. Help us maintain our focus on each of you as people and not as employees, and leave your organization name off your Slack profile. (We’ve already hidden email addresses from all Slack profiles.) You can put in three of your passions or interests into the “What I do” section of your Slack profile as conversation starters instead!
 </div>
 </div>
 
@@ -62,7 +62,7 @@ Starting Tuesday, you can sign-up for our conference Slack. We’ll post this li
 <div class="icon"><img src="/media/img/pronouns.png"></div>
 <div class="markdown" markdown="1">
 #### Step 2: Add your pronoun pin.
-In lieu of physical pins, you can display your pronouns digitally this year! In your SRCCON Slack account and on Zoom, we invite everyone who’s comfortable to add their pronouns to their display names so they’re always visible. For example, “Sisi Wei (she/her).” Additionally you can add pronouns to your profile’s “pronouns” field too. Displaying your pronoun even if you don’t feel like you need one helps create a welcoming space for our colleagues who do (and please, respect other people’s pronouns).
+In lieu of physical pins, you can display your pronouns digitally! In your SRCCON Slack account and on Zoom, we invite everyone who’s comfortable to add their pronouns to their display names so they’re always visible. For example, “Sisi Wei (she/her).” Additionally you can add pronouns to your profile’s “pronouns” field too. Displaying your pronoun even if you don’t feel like you need one helps create a welcoming space for our colleagues who do (and please, respect other people’s pronouns).
 </div>
 </div>
 
@@ -70,7 +70,7 @@ In lieu of physical pins, you can display your pronouns digitally this year! In 
 <div class="icon"><img src="/media/img/map.png"></div>
 <div class="markdown" markdown="1">
 #### Step 3: Your map of our facilities.
-This year, SRCCON will have direct Zoom links for all our talks, sessions, and meetups, and we can create more of them as you sign up to lead your own meetups. Getting a hold of your bearings will be easy though. We’ll be posting direct Zoom links to every event on [our Eventbrite page](/signin/). Consider it your digital map. Please bookmark it!
+SRCCON will have direct Zoom links for all our talks, sessions, and meetups, and we can create more of them as you sign up to lead your own meetups. All direct Zoom links will be posted on both [our Eventbrite page](/signin/) and in our Slack. 
 </div>
 </div>
 
@@ -90,9 +90,9 @@ If you have private, safety-related questions, please check out our [Code of Con
 
 ## Use Slack to network and connect during SRCCON
 
-Every SRCCON is a community—this year's just happens to be connecting online. Our weeklong event Slack is a space to meet other participants, share and discover projects, follow up on sessions, and find emergent conversations. 
+Every SRCCON is a community—especially when we’re connecting online. Our weeklong event Slack is a space to meet other participants, share and discover projects, follow up on sessions, and find emergent conversations. 
 
-Starting Tuesday, you can grab the direct sign-up link from [our Eventbrite page](/signin/). Sign yourself up ASAP (including before the conference) so you can start participating right now. This Slack community will also be a special place that only exists during SRCCON and a couple of days after. Once the conference is over, we’ll give everyone a few extra days to save any resources they’d like from the Slack, and afterward, we’ll close down the Slack.
+Starting Tuesday, June 21, you’ll see the direct sign-up link on [our Eventbrite page](/signin/). Sign yourself up ASAP (including before the conference) so you can start participating immediately. This Slack community will also be a special place that only exists during SRCCON and a couple of days after. Once the conference is over, we’ll give everyone a few extra days to save any resources they’d like from the Slack, and afterward, we’ll close down the Slack.
 
 ### SRCCON PROGRAM
 
@@ -101,41 +101,39 @@ Starting Tuesday, you can grab the direct sign-up link from [our Eventbrite page
 
 Each day of the conference, talks create a common, shared foundation to build upon during our conversations throughout the conference. 
 
-Our talk speakers at SRCCON 2021 are:
+Our talk speakers at SRCCON 2022 are:
 
-* Carla Murphy ([@carlamurphy](https://twitter.com/carlamurphy)) and Aaron Williams ([@aboutaaron](https://twitter.com/aboutaaron)) on toggling between hope and resignation regarding the journalism industry’s prospects of change.
-* Kavya Sukumar ([@kavyaSukumar](https://twitter.com/kavyaSukumar)) and Soo Oh ([@soo_oh](https://twitter.com/soo_oh)) on moving into and out of management in journalism and tech.
-* Yoli Martinez ([@yoli_martinez](https://twitter.com/yoli_martinez)) and Anna Flagg ([@AnnaFlagg](https://twitter.com/AnnaFlagg)) on how we don’t have to be satisfied with the way things are.
+* Sophie Ho ([@sophanho](https://twitter.com/sophanho)) and Yu Vongkiatkajorn ([@yukvon](https://twitter.com/yukvon)) on leading pay studies and strategizing to create change in newsrooms. 
+* Phoebe Gavin ([@betterwphoebe](https://twitter.com/betterwphoebe)) and Jahna Berry ([@jahnaberry](https://twitter.com/jahnaberry)) on retention, turnover, and building resilient news organizations where everyone can thrive.
+* Ko Bragg ([@keaux_](https://twitter.com/keaux_)) and Cierra Hinton ([@iolabhinton](https://twitter.com/iolabhinton)) on rest as reparations, how 30 days of paid leave rejuvenated Scalawag’s newsroom, and why more newsrooms need to be facilitating rest.
 
-**There are two ways to interact with talks: live, or on your own time.** We know that there are many reasons why you might need to miss a talk live, even if you want to see it. That’s why all of our talks will be pre-recorded and have live transcriptions after. Here’s how it’ll work.
+**There are two ways to interact with talks: live, or on your own time.** We know that there are many reasons why you might need to miss a talk live, even if you want to see it. That’s why all of our talks will be pre-recorded and have live transcriptions. Here’s how it’ll work.
 
-* **Watch talks on your own time.** If you can’t watch a talk live, you can watch it ahead of time and submit early questions for the speakers all from [our Eventbrite page](/signin/). As a SRCCON participant, you’ll get access to recordings for each talk beforehand.
-* **Live session, with intros and Q&A**: Before each talk, we’ll introduce the speakers, and then play the recorded talk. As we’re watching, the speakers will be in the Zoom chat with you, and you’ll be able to ask questions during the talk in the chat. Afterwards, we’ll also do a moderated, live Q&A with the speakers on video. 
-* **Overflow Q&A:** Right after our live Q&A, if there are still more questions for the speakers, we’ll be porting them over to our SRCCON Slack. We’ll have a single channel  (#talks-qa-overflow) dedicated to overflow questions from all our talks, and the speakers will hang out there for as long as they can to answer more questions. 
-* **Catch up on the Q&A later.** We’ll record the live event, complete with live Q&A. If you want to catch the Q&A, or just want to watch the talk again, you’ll have access to those recordings and transcripts for the duration of SRCCON, also via [our Eventbrite page](/signin/).
+* **Live session, with intros and Q&A**: Before each talk, we’ll introduce the speakers, and then play the recorded talk. As we’re watching, the speakers will be in the Zoom chat with you, and you’ll be able to ask questions during the talk in the chat. Afterward, we’ll also do a moderated, live Q&A with the speakers on video.
+* **Watch talks on your own time.**  If you can’t watch a talk live, you can catch the recording of it and the live Q&A afterward on [our Eventbrite page](/signin/). As a SRCCON participant, you’ll get access to recordings for each talk for at least 2 weeks after SRCCON concludes.
 
 
 ## Sessions
 
 If talks give us a shared foundation to build upon, then sessions are where we do the building. 
 
-Just like in previous years, SRCCON is built around three days of peer-led conversations and hands-on workshops. All the sessions on our schedule are proposed and led by community members who want to help people learn new skills, explore tough questions, or develop new resources to share.
+Just like in previous years, SRCCON is built around peer-led conversations and hands-on workshops. All the sessions on our schedule are proposed and led by community members who want to help people learn new skills, explore tough questions, or develop new resources to share.
 
 Each day, there will be two blocks of sessions:
 
 * To view sessions and decide which to attend, see [the full schedule](/schedule/).
 * To join a session during its scheduled time, click on the designated Zoom link [on the Eventbrite page](/signin/) for participants.
 
-Sessions at SRCCON 2021 focus on important change — whether that's for the journalism industry, for our workplaces, or for ourselves.  We’ll be talking about going beyond performative allyship, the need to radically change elections coverage, what real accountability looks like in journalism, how to build our own resilience,  and [so much more](/schedule/). SRCCON sessions, too, are usually formed by a single question or problem that people want to take on together—if you’ve been struggling with just about any aspect of your work, you can bet others have dealt with it, too.
+Sessions at SRCCON 2022 focus on important change — whether that's for the journalism industry, for our workplaces, or for ourselves.  We’ll be talking about when newsroom hiring tests are exploitative, covering trans stories with cultural awareness, evidence, and data, how to make organizational changes stick, how to know if you’re ready for a community reporter, and [so much more](/schedule/). SRCCON sessions, too, are usually formed by a single question or problem that people want to take on together—if you’ve been struggling with just about any aspect of your work, you can bet others have dealt with it, too.
 
-This year, 80% of our sessions have facilitators who identify as women, and over 70% have facilitators of color. Session facilitators represent backgrounds and organizations from across the community, and they draw on the experience of participants in the room to guide conversations and collaborative work. At SRCCON, it isn’t about the person who starts the presentation — it’s about everyone who showed up and is in the room.
+This year, nearly 90% of our sessions have facilitators who identify as women, and over 70% have facilitators of color. Session facilitators represent backgrounds and organizations from across the community, and they draw on the experience of participants in the room to guide conversations and collaborative work. At SRCCON, it isn’t about the person who starts the presentation — it’s about everyone who showed up and is in the room.
 
 As a participant, you should be ready to be active in each session. With 75-minutes set aside, there’s plenty of time for discussions, reflection, and even sometimes group exercises and other activities. Every session will have a volunteer welcome person, so if you have to jump in a little late, they’ll help orient you. You can also follow along or catch up in the session Google Docs, also listed [on the Eventbrite page](/signin/). 
 
 
 ## More informal, social sessions 
 
-We’ve set aside an hour every day of SRCCON to specially feature a set of sessions about life at work and outside of it — hobbies, games, and other activities. These sessions cover a mix of topics and are in different formats, some conversational, some active, some more just listening. Many of you shared your interests with us in the call for participation form, which helped us organize these sessions. Just like other sessions, these will be on Zoom, and links are listed [on the Eventbrite page](/signin/). 
+We’ve set aside an hour every day of SRCCON to specially feature a set of sessions about life at work and outside of it — hobbies, games, reflections, and other activities. These sessions cover a mix of topics and are in different formats, some conversational, some active, some more just listening. Many of you shared your interests with us in the call for participation form, which helped us organize these sessions. Just like other sessions, these will be on Zoom, and links are listed [on the Eventbrite page](/signin/). 
 
 
 ### FAQ 
@@ -150,9 +148,9 @@ The fastest way to contact our team will be within the Slack workspace. If you�
 
 We’ll be recording our opening staff welcome, and we’ll make that available to everyone ASAP afterward, to help everyone get oriented to SRCCON and how it works at your own pace!
 
-All of our talks will be recorded too, and available to participants _during_ the conference.
+All of our talks will be recorded too, and available to participants during the conference and for a few weeks after.
 
-We will _not_ be recording any of our sessions, though some of them will have live transcription during SRCCON itself. Transcripts will be available during SRCCON and only to participants.
+**We will not** be recording any of our sessions, though some of them will have live transcription during SRCCON itself. Transcripts will be available during SRCCON and only to participants.
 
 ## What parts of SRCCON can I share publicly on social media, or privately with people who are not SRCCON participants?
 
@@ -162,11 +160,12 @@ These parts of SRCCON are for participants only. **Please do not share**:
 * Talks/session google docs
 * Talks recordings
 * Transcripts
-* Our virtual bulletin board
 
 What can be shared:
 
 * Anything that’s already public, for example, links to articles.
+* The resources and insights facilitators and speakers encourage you to share.
+* The ideas you’re inspired to try and [excitement](https://twitter.com/Cande313/status/1537480641956171776) [from](https://twitter.com/emgollie/status/1537802262139002880?s=20&t=x9jqNS77yB8rA3ZgLsSh-g) [your](https://twitter.com/ihearttheroad/status/1537486365126184960) [own](https://twitter.com/geoffhing/status/1537477474631659520) [experience](https://twitter.com/schmalie/status/1537476717375258627)!
 
 When it comes to direct quotes, anecdotes, and the knowledge we share with one another as peers, it gets a little more complicated. 
 
@@ -178,7 +177,7 @@ At SRCCON, we seek to create a space where people can speak openly and bravely, 
 
 ## How can I be a great SRCCON participant?
 
-Just like previous years, SRCCON 2021 is a unique, accessible, and inclusive event that hosts frank, challenging, nurturing, and creative conversations that need to be had. There are tons of ways for all participants to help us create and reinforce this environment.
+Just like previous years, SRCCON 2022 is a unique, accessible, and inclusive event that hosts frank, challenging, nurturing, and creative conversations that need to be had. There are tons of ways for all participants to help us create and reinforce this environment.
 
 #### How we always hope you’ll participate:
 
@@ -190,11 +189,11 @@ Just like previous years, SRCCON 2021 is a unique, accessible, and inclusive eve
 
 * **Be generous with +1s and emojis.** During talks and sessions, speakers and facilitators won’t be able to see your expressions as clearly, or hear your claps or snaps — so give them positive feedback digitally in the chat, and be generous!
 * **Help us maintain our focus on you, the community, and not your employer.** At in-person SRCCON events, we’ve always made the decision to never show a person’s place of work on their name badge. We’re carrying that over to SRCCON online by hiding your emails in Slack (which often reveal your employer), and by encouraging you to talk about your interests and passions first when making connections.
-* **Support one another.** In-person, we like to follow the [pac man rule](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/). Digitally, we can support each other by following the same spirit. Especially with a video chat setup, it can be hard to get a word in. If you see someone else trying to get a word in, help make sure they get a chance to speak. If you see someone looking for help in Slack, lend an ear. 
+* **Support one another.** In-person, we like to follow the [pac man rule](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/). Digitally, we can support each other by following the same spirit. Especially with a video chat setup, it can be hard to get a word in.  If you see someone else trying to speak, help make sure they get a chance to do so. If you see someone looking for help in Slack, lend an ear. 
 
 #### Only share links with participants
 
-At previous SRCCONs, some parts of our programming have usually been publicly accessible, such as a live transcript of a session, or our etherpad notes. This time, we’d like to ask for your help to make sure that all of our programming is only shared with participants. There’s two main reasons for this:
+At in-person SRCCONs, some parts of our programming have usually been publicly accessible, such as a live transcript of a session, or our etherpad notes. At virtual SRCCONs, we’d like to ask for your help to make sure that all of our programming is only shared with participants. There’s two main reasons for this:
 
 First, it’s extremely important to us that all SRCCON participants are held accountable to our [Code of Conduct](/conduct). While it’s easy to share a Zoom link to a session or talk with a colleague or friend, unless that person registered for SRCCON, they will not have agreed to our Code of Conduct, which puts the community in a difficult position.
 
