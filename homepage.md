@@ -23,7 +23,7 @@ Here's our program for the week of SRCCON, and how you can still get involved.
     <li>🗓 <a href="/schedule">Check the schedule</a></li>
 </ul>
 
-#### The SRCCON Slack (Tuesday-Monday, June 21-27)
+#### The SRCCON Slack (Tuesday-Tuesday, June 21-28)
 
 Every SRCCON is a community. Our weeklong event Slack is a space to meet other attendees, share and discover projects, keep talking about sessions, and find emergent conversations. And when SRCCON is over, we'll gather up links and trade contact info, then sign out till next year. Fill out our [call for participation](/participation/form) to join us!
 
