@@ -3,34 +3,40 @@ section: homepage
 permalink: /
 ---
 
-### How to be a part of {{ page.event_name }}
+### Welcome to SRCCON!
 
-**[Our schedule for SRCCON 2022 is here!](/schedule)** Check out the amazing talks and sessions this community has planned for each day. And stay tuned, because we still have a bunch of social sessions and activities coming soon!
+**[Check out the schedule for SRCCON 2022!](/schedule)**
 
-↪ **[See the SRCCON schedule](/schedule)** 🎉
+* **Registered attendees:** You can start participating right now, with a [participant walkthrough guide](/participant-prep/). Plus, [all the sign-in links you need are here on Eventbrite](/signin).
+* **You should join us!** [It's not too late, we still have tickets!](/participation/form) 
 
-If you'd like to [join us June 22-24 at SRCCON 2022](/participation/form), our [call for participation form](/participation/form) is where to let us know you want to participate. If invited to attend, you will have the chance to purchase a ticket with [prices starting at $125 plus fees](/attendees/#tickets).
+Here's our program for the week of SRCCON, and how you can still get involved.
 
-**Key dates for your calendar**:
+#### The Program (Wednesday-Friday, June 22-24)
 
-* **On a rolling basis**: Within a week or so of submitting our call for participation form, anyone who selects "I'd like to attend" will be notified about whether they are invited to purchase a ticket.
-* **June 22-24**: SRCCON 2022, online!
+* **Talks:** The three talks on our program this year create a common foundation to build on during conversations throughout the week. SRCCON participants can watch them in advance and submit questions ahead of time, or join us live to watch the talks and participate in Q&As with the speakers.
+* **Sessions:** Participatory sessions create space to get into the biggest problems facing journalism, together. Community members will facilitate peer conversations and hands-on workshops that draw on the experience of every attendee in the (Zoom) room.
+* **Meetups & group conversations:** SRCCON makes time for a set of sessions about life at work and outside of it — hobbies, games, and other activities. Some are on the schedule, some will happen in the Slack, and others will emerge organically throughout the week.
 
-Curious about how it all works? Learn more about [the SRCCON attendee experience](/attendees), and the [participation form](/participation/form) will help you tell us how you'd like to be part of {{ page.event_name }}. There won't be a separate ticket lottery or sale date, so if you want to come to {{ page.event_name }}, our call for participation will be how to let us know! As space remains available, we will keep the call for participation open for tickets only, but submitting the form early is your best chance to attend.
+<ul class="action-links">
+    <li>👉 <a href="/participation/form">Sign up for SRCCON</a></li>
+    <li>🗓 <a href="/schedule">Check the schedule</a></li>
+</ul>
+
+#### The SRCCON Slack (Tuesday-Monday, June 21-27)
+
+Every SRCCON is a community. Our weeklong event Slack is a space to meet other attendees, share and discover projects, keep talking about sessions, and find emergent conversations. And when SRCCON is over, we'll gather up links and trade contact info, then sign out till next year. Fill out our [call for participation](/participation/form) to join us!
+
+### How to be a part of SRCCON 2022
+
+**[Our call for participation form is still open!](/participation/form)** If you’d like to attend SRCCON 2022, this is how to let us know. Within an hour (if not sooner), we’ll email you a link to buy a ticket to the event or grab a scholarship ticket, if we still have space available. Even if SRCCON is already in progress, you’ll be able to join through Thursday, June 23, so don’t be afraid to join mid-event, especially if you want to catch a particular session or talk! 
+
+We're building an online space based on what we collectively value about the physical experience. The event program will take place over the course of three days, with a mix of sessions you'll be able to participate in live and asynchronously.
+
+Two easy ways to stay up to date: [@srccon on Twitter](https://twitter.com/srccon) / [our newsletter](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc)
 
 
-### About the program
-
-**Wednesday-Friday, June 22-24, 2022**
-
-You can [browse this year's program](/program) or check out the [official conference schedule](/schedule), with more social conversations and activities coming soon. The entire program will consist of:
-
-* **Talks:** The three talks on our program this year create a common foundation for conversations throughout the week. SRCCON participants can watch them in advance and submit questions ahead of time, or join us live to watch the talks and participate in Q&As with the speakers.
-* **Sessions:** Participatory sessions create space to get into the biggest problems facing journalism, together. Community members will facilitate peer conversations and hands-on workshops that draw on the experience of every attendee in the room.
-* **Meetups & group conversations:** SRCCON makes time for sessions about life at work and outside of it—passions, hobbies, games, and other activities. Some are on the schedule, some will happen in the Slack, and others will emerge organically throughout the week.
-
-
-### What you can expect
+### About {{ page.event_name }}
 
 The SRCCON program is focused on the practical challenges that news technology and data teams encounter every day. At SRCCON, you’ll:
 
