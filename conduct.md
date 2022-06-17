@@ -23,4 +23,6 @@ This code of conduct covers the entirety of any SRCCON event. Before, during, an
 
 We welcome your feedback on this and every other aspect of our events, and we thank you for working with us to make it a safe, enjoyable, and friendly experience for everyone who participates.
 
+We know having a Code of Conduct is important, but in addition to being clear about what behavior is not acceptable at SRCCON, we also thought it was important to write about [how we can all take care of each other, and what great, supportive, and positive behavior looks like](/support).
+
 <small>Above text is licensed CC BY-SA 4.0. Credit to [Citizen Code of Conduct](http://citizencodeofconduct.org/), [the Django Project&rsquo;s code of conduct](https://www.djangoproject.com/conduct/) and [Theorizing the Web code of conduct](http://theorizingtheweb.tumblr.com/post/79357700249/anti-harassment-statement) from which we&rsquo;ve extensively borrowed, with general thanks to [the Ada Initiative&rsquo;s &ldquo;how to design a code of conduct for your community.&rdquo;](https://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/)</small>
