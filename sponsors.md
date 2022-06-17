@@ -30,6 +30,10 @@ Interested in having your company or organization get involved? [Find out more a
 
 
 <div class="page-divider"><span>Event sponsors</span></div>
+<div class="sponsor-block secondary secondary-wide">
+    <a href="https://craignewmarkphilanthropies.org"><img src="/media/img/partners/newmark.png" alt="Craig Newmark Philanthropies"></a>
+</div>
+
 <div class="sponsor-block secondary">
     <a href="https://rjionline.org/"><img src="/media/img/partners/rji.png" alt="Reynolds Journalism Institute"></a>
 </div>

@@ -457,6 +457,9 @@ main input {
 .sponsor-block.secondary img {
     width: 50%;
 }
+.sponsor-block.secondary-wide img {
+    width: 67%;
+}
 .sponsor-block h1,
 .sponsor-block h2,
 .sponsor-block h3 {
@@ -894,6 +897,9 @@ p.facilitator + p.session-description {
     }
     .sponsor-block.secondary img {
         width: 67%;
+    }
+    .sponsor-block.secondary-wide img {
+        width: 80%;
     }
 
     .hub .page-intro {
