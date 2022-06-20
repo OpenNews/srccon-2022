@@ -240,29 +240,15 @@
     {
         "break": "",
         "day": "Thursday",
-        "description": "",
-        "everyone": "y",
-        "facilitators": "",
-        "id": "thu-opening",
-        "social": "",
-        "talk": "",
-        "time": "12-12:15pm ET",
-        "timeblock": "thu-12pm",
-        "title": "Thursday welcome",
-        "transcription": "y"
-    },
-    {
-        "break": "",
-        "day": "Thursday",
         "description": "Phoebe Gavin and Jahna Berry on retention, turnover, and building resilient news organizations where everyone can thrive.",
         "everyone": "",
         "facilitators": "",
         "id": "thu-talk",
         "social": "",
         "talk": "y",
-        "time": "12:15-1pm ET",
+        "time": "12-1pm ET",
         "timeblock": "thu-12pm",
-        "title": "SRCCON Talks: Phoebe Gavin & Jahna Berry",
+        "title": "Thursday welcome & SRCCON Talks: Phoebe Gavin & Jahna Berry",
         "transcription": "y"
     },
     {
