@@ -6,7 +6,7 @@ title: Care and support
 
 # Care &amp; support at SRCCON events
 
-**SRCCON EVENT SAFETY CONTACT:** If you would like to make any reports, please email us at [safety@opennews.org](mailto:safety@opennews.org).
+**SRCCON SAFETY HELPLINE:** If you would like to make any reports, please call (267) 540-3177 or email us at [safety@opennews.org](mailto:safety@opennews.org).
 
 The spirit of generosity that animates this community is a big part of what led to SRCCON. We heard again and again that folks wanted to have space to share with and support one another. We expect some thought-provoking talks, intriguing sessions, and uplifting conversations during our three days together, so we wanted to share some thoughts about how we're creating the space for those and the support we can offer to one another.
 
