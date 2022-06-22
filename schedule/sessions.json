@@ -172,7 +172,7 @@
         "day": "Wednesday",
         "description": "You have a large dataset — covering several counties, an entire state, or even every census tract or MSA in the U.S. — and the best path forward is collaborating with other newsrooms. So how do you start? We’ll explore best practices in collecting and sharing data; how to approach potential collaborative partners; how to build out workflows, expectations, and scheduling with partners; and even what to plan for when you publish, including how to engage with your audience and community and how best to present your findings.\n\nFacilitators will leverage experiences participating in several projects including air quality sensor data from both California and Chicago, which resulted in multiple newsroom consortiums with NPR and the new Chicago Sun-Times/WBEZ nonprofit model; an evolving childcare project covering all of Michigan, with partners that include the Detroit Free-Press, Bridge Michigan, Outlier Media and the small newsroom, the Traverse City Record-Eagle; and the Documenting COVID-19 project's Uncounted death certificate error series, shortlisted for a Sigma Award as one of the country’s top data projects, which relied on seven reporters across five newsrooms in the USA TODAY network, including those in Mississippi, Missouri and Louisiana.",
         "everyone": "",
-        "facilitators": "Derek Kravitz, Dillon Bergin",
+        "facilitators": "Dillon Bergin, Mohar Chatterjee, Betsy Ladyzhets",
         "id": "collaboration-large-datasets",
         "social": "",
         "talk": "",
@@ -338,7 +338,7 @@
     {
         "break": "",
         "day": "Thursday",
-        "description": "Whenever Destinée-Charisse Royal conducts her popular workshop on how to have difficult conversations in newsrooms, she shares steps to discuss racism, sexism and all manner of uncomfortable topics. At the end, there never seems to be enough time for questions. So in this session, she will zero in on a few key prep points — like offering your lenses and 10xing your empathy. The session may involve coming up with a reason that the chief suspect in a procedural TV show episode might actually be innocent. And then the floor will open for questions and discussions about how to approach the conversations we have been putting off.",
+        "description": "Whenever Destinée-Charisse Royal conducts her popular workshop on how to have difficult conversations in newsrooms, she shares steps to discuss racism, sexism and all manner of uncomfortable topics. At the end, there never seems to be enough time for questions. So in this session, she will zero in on a few key prep points — like offering your lenses and 10xing your empathy. Want to participate but don’t have a question? Come anyway!\n\nIn breakout rooms, you will brainstorm questions, based on a prompt, like: the dynamic between a reporter and editor discussing coverage; between peers on different teams collaborating on a project; among teammates partnering for group work. A few topics we can cover: burnout, bias in coverage, tone deafness and workflow hiccups. After breakouts, the floor will open for questions and discussions about how to approach the conversations we have been putting off.",
         "everyone": "",
         "facilitators": "Destinée-Charisse Royal, Caitlin Gilbert",
         "id": "difficult-newsroom-conversations",
