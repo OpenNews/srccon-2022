@@ -7,10 +7,10 @@ permalink: /
 
 **[Check out the schedule for SRCCON 2022!](/schedule)**
 
+* **Registration for SRCCON 2022 is now closed!** To be notified as soon as we announce our next event, [sign up for our newsletter](https://opennews.org/newsletter).
 * **Registered attendees:** You can start participating right now, with a [participant walkthrough guide](/participant-prep/). Plus, [all the sign-in links you need are here on Eventbrite](/signin).
-* **You should join us!** [It's not too late, we still have tickets!](/participation/form) 
 
-Here's our program for the week of SRCCON, and how you can still get involved.
+Here's our program for the week of SRCCON.
 
 #### The Program (Wednesday-Friday, June 22-24)
 
@@ -19,22 +19,12 @@ Here's our program for the week of SRCCON, and how you can still get involved.
 * **Meetups & group conversations:** SRCCON makes time for a set of sessions about life at work and outside of it — hobbies, games, and other activities. Some are on the schedule, some will happen in the Slack, and others will emerge organically throughout the week.
 
 <ul class="action-links">
-    <li>👉 <a href="/participation/form">Sign up for SRCCON</a></li>
     <li>🗓 <a href="/schedule">Check the schedule</a></li>
 </ul>
 
 #### The SRCCON Slack (Tuesday-Tuesday, June 21-28)
 
-Every SRCCON is a community. Our weeklong event Slack is a space to meet other attendees, share and discover projects, keep talking about sessions, and find emergent conversations. And when SRCCON is over, we'll gather up links and trade contact info, then sign out till next year. Fill out our [call for participation](/participation/form) to join us!
-
-### How to be a part of SRCCON 2022
-
-**[Our call for participation form is still open!](/participation/form)** If you’d like to attend SRCCON 2022, this is how to let us know. Within an hour (if not sooner), we’ll email you a link to buy a ticket to the event or grab a scholarship ticket, if we still have space available. Even if SRCCON is already in progress, you’ll be able to join through Thursday, June 23, so don’t be afraid to join mid-event, especially if you want to catch a particular session or talk! 
-
-We're building an online space based on what we collectively value about the physical experience. The event program will take place over the course of three days, with a mix of sessions you'll be able to participate in live and asynchronously.
-
-Two easy ways to stay up to date: [@srccon on Twitter](https://twitter.com/srccon) / [our newsletter](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc)
-
+Every SRCCON is a community. Our weeklong event Slack is a space to meet other attendees, share and discover projects, keep talking about sessions, and find emergent conversations. And when SRCCON is over, we'll gather up links and trade contact info, then sign out till next year.
 
 ### About {{ page.event_name }}
 
