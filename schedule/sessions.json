@@ -252,13 +252,13 @@
         "transcription": "y"
     },
     {
-        "break": "y",
+        "break": "",
         "day": "Thursday",
         "description": "Take a break! Step away from your computer or chat with other participants in the SRCCON Slack. Thanks to Alley for sponsoring our break time and opportunity to chat in the virtual hallway.",
         "everyone": "",
         "facilitators": "",
         "id": "thu-break",
-        "social": "",
+        "social": "y",
         "talk": "",
         "time": "1-1:30pm ET",
         "timeblock": "thu-1pm",
@@ -266,13 +266,13 @@
         "transcription": ""
     },
     {
-        "break": "y",
+        "break": "",
         "day": "Thursday",
-        "description": "Join the *#session-science-misinfo* channel in our conference Slack for async discussion throughout the day:\n\nExperts in science communication will join from three continents (so we're taking advantage of async in Slack!) to share their research and answer questions about how journalists can report on polarized science topics. These Q&As will lead into Friday's session: \"Covering polarized science topics in a polluted media system.\" You can look for them in particular at these times:\n\n- Jaime Longoria of the Disinfo Defense League (Wednesday 12pm PT/3pm ET/7pm UTC)\n- Stephan Lewandowsky of University of Bristol (Thursday 7am PT/10am ET/2pm UTC)\n- Jiyoung Lee of University of Alabama (Thursday 2pm PT/5pm ET/9pm UTC)\n- Scott Knowles of COVIDCalls, Korea Advanced Institute of Science and Technology (Friday 5:30am PT/8:30am ET/12:30pm UTC)",
+        "description": "Join the **#session-science-misinfo** channel in our conference Slack for async discussion throughout the day:\n\nExperts in science communication will join from three continents (so we're taking advantage of async in Slack!) to share their research and answer questions about how journalists can report on polarized science topics. These Q&As will lead into Friday's session: \"Covering polarized science topics in a polluted media system.\" You can look for them in particular at these times:\n\n- Jaime Longoria of the Disinfo Defense League (Wednesday 12pm PT/3pm ET/7pm UTC)\n- Stephan Lewandowsky of University of Bristol (Thursday 7am PT/10am ET/2pm UTC)\n- Jiyoung Lee of University of Alabama (Thursday 2pm PT/5pm ET/9pm UTC)\n- Scott Knowles of COVIDCalls, Korea Advanced Institute of Science and Technology (Friday 5:30am PT/8:30am ET/12:30pm UTC)",
         "everyone": "",
         "facilitators": "",
         "id": "thu-async-science",
-        "social": "",
+        "social": "y",
         "talk": "",
         "time": "Throughout the day in Slack",
         "timeblock": "thu-1pm",
