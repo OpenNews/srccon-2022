@@ -18,10 +18,6 @@ Here's our program for the week of SRCCON.
 * **Sessions:** Participatory sessions create space to get into the biggest problems facing journalism, together. Community members will facilitate peer conversations and hands-on workshops that draw on the experience of every attendee in the (Zoom) room.
 * **Meetups & group conversations:** SRCCON makes time for a set of sessions about life at work and outside of it — hobbies, games, and other activities. Some are on the schedule, some will happen in the Slack, and others will emerge organically throughout the week.
 
-<ul class="action-links">
-    <li>🗓 <a href="/schedule">Check the schedule</a></li>
-</ul>
-
 #### The SRCCON Slack (Tuesday-Tuesday, June 21-28)
 
 Every SRCCON is a community. Our weeklong event Slack is a space to meet other attendees, share and discover projects, keep talking about sessions, and find emergent conversations. And when SRCCON is over, we'll gather up links and trade contact info, then sign out till next year.
