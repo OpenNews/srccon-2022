@@ -7,7 +7,7 @@ permalink: /
 
 **[Check out the schedule for SRCCON 2022!](/schedule)**
 
-* **Registration for SRCCON 2022 is now closed!** To be notified as soon as we announce our next event, [sign up for our newsletter](https://opennews.org/newsletter).
+* **SRCCON 2022 is officially sold out!** To get notified ASAP when we host our future SRCCON:TOPIC or annual SRCCON events, [sign up for our newsletter](https://opennews.org/newsletter)!.
 * **Registered attendees:** You can start participating right now, with a [participant walkthrough guide](/participant-prep/). Plus, [all the sign-in links you need are here on Eventbrite](/signin).
 
 Here's our program for the week of SRCCON.
