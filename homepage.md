@@ -50,7 +50,7 @@ SRCCON participants are developers, designers, journalists, editors, and allies:
 
 [Ticket prices start at $125](/attendees/#tickets), plus ticketing fees. We'll also offer a limited number of need-based, [free scholarship tickets as well as $250 stipends](/scholarships) for attendees whose time to attend would otherwise be uncompensated.
 
-SRCCON events don't have open sale dates or lotteries. If you want to come to {{ page.event_name }}, our [call for participation](/participation/form) is how to let us know.
+SRCCON events don't have open sale dates or lotteries.
 
 ### What's next
 
