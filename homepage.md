@@ -3,26 +3,32 @@ section: homepage
 permalink: /
 ---
 
-### Welcome to SRCCON!
+### About SRCCON 2022
+At SRCCON 2022, participants came together and built an unforgettable space to work on our hopes for journalism — what we’ll be shedding and leaving behind, what we’ll create anew, and how we can support one another through it all.
 
-**[Check out the schedule for SRCCON 2022!](/schedule)**
+#### Here’s what we did
 
-* **SRCCON 2022 is officially sold out!** To get notified ASAP when we host our future SRCCON:TOPIC or annual SRCCON events, [sign up for our newsletter](https://opennews.org/newsletter)!.
-* **Registered attendees:** You can start participating right now, with a [participant walkthrough guide](/participant-prep/). Plus, [all the sign-in links you need are here on Eventbrite](/signin).
+* Gathered for three talks that tackled head-on the difficult conversations in journalism, inspiring us to strategize for change, create news organizations where everyone can thrive, and facilitate rest.
+* Came together for 29 interactive sessions and workshops, teaching each other about how we need to rethink the tools and techniques we use do journalism in 2022, how to make our newsrooms and processes more equitable places for everyone, and how to take care of ourselves so we can continue to do what we care about in the future.
+* Led 10 more informal, social sessions on everything from fanfiction as a tool for questioning objectivity, strengthening imagination and forming online community, to retiriement savings, to ADHD + journalism, to yoga, to leaving journalism.
+* Connected throughout the week in the SRCCON Slack: a pop-up community with dozens of channels created by attendees to keep talking after sessions wrapped up and organize around shared interests and goals
 
-Here's our program for the week of SRCCON.
+#### And here's what you said
 
-#### The Program (Wednesday-Friday, June 22-24)
+* "SRCCON sets the gold standard for hosting a thoughtful, inclusive conference. This was exactly what I needed."
+* "I felt safe and seen at SRCCON. I usually feel crazy/unwelcomed at work/other journalism spaces, but taking the space to feel, connect with other like-minded folks has made me feel less alone"
+* "I so appreciated the sessions that focused on looking back on what we learned, what we can do better, because this doesn't happen at work"
+
+### About The Program
+
+**Wednesday-Friday, June 22-24**
 
 * **Talks:** The three talks on our program this year create a common foundation to build on during conversations throughout the week. SRCCON participants can watch them in advance and submit questions ahead of time, or join us live to watch the talks and participate in Q&As with the speakers.
 * **Sessions:** Participatory sessions create space to get into the biggest problems facing journalism, together. Community members will facilitate peer conversations and hands-on workshops that draw on the experience of every attendee in the (Zoom) room.
 * **Meetups & group conversations:** SRCCON makes time for a set of sessions about life at work and outside of it — hobbies, games, and other activities. Some are on the schedule, some will happen in the Slack, and others will emerge organically throughout the week.
 
-#### The SRCCON Slack (Tuesday-Tuesday, June 21-28)
 
-Every SRCCON is a community. Our weeklong event Slack is a space to meet other attendees, share and discover projects, keep talking about sessions, and find emergent conversations. And when SRCCON is over, we'll gather up links and trade contact info, then sign out till next year.
-
-### About {{ page.event_name }}
+### What you can expect
 
 The SRCCON program is focused on the practical challenges that news technology and data teams encounter every day. At SRCCON, you’ll:
 
