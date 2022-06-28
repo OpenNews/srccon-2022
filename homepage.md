@@ -4,7 +4,7 @@ permalink: /
 ---
 
 ### About SRCCON 2022
-At SRCCON 2022, participants came together and built an unforgettable space to work on our hopes for journalism — what we’ll be shedding and leaving behind, what we’ll create anew, and how we can support one another through it all.
+At SRCCON 2022, participants came together and built an unforgettable space to work on our hopes for journalism — the future we want to see, how we can build it together, and how we can support one another through it all.
 
 #### Here’s what we did
 
