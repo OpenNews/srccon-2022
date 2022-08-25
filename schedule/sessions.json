@@ -268,7 +268,7 @@
     {
         "break": "",
         "day": "Thursday",
-        "description": "Join the **#session-science-misinfo** channel in our conference Slack for async discussion throughout the day:\n\nExperts in science communication will join from three continents (so we're taking advantage of async in Slack!) to share their research and answer questions about how journalists can report on polarized science topics. These Q&As will lead into Friday's session: \"Covering polarized science topics in a polluted media system.\" You can look for them in particular at these times:\n\n- Jaime Longoria of the Disinfo Defense League (Wednesday 12pm PT/3pm ET/7pm UTC)\n- Stephan Lewandowsky of University of Bristol (Thursday 8:30am PT/11:30am ET/3:30pm UTC)\n- Jiyoung Lee of University of Alabama (Thursday 2pm PT/5pm ET/9pm UTC)\n- Scott Knowles of COVIDCalls, Korea Advanced Institute of Science and Technology (Friday 5:30am PT/8:30am ET/12:30pm UTC)",
+        "description": "Join the **#session-science-misinfo** channel in our conference Slack for async discussion throughout the day:\n\nExperts in science communication will join from three continents (so we're taking advantage of async in Slack!) to share their research and answer questions about how journalists can report on polarized science topics. These Q&As will lead into Friday's session: \"\"Covering polarized science topics in a polluted media system.\"\" You can look for them in particular at these times:\n\n- Jaime Longoria of the Disinfo Defense League (Wednesday 12pm PT/3pm ET/7pm UTC)\n- Stephan Lewandowsky of University of Bristol (Thursday 8:30am PT/11:30am ET/3:30pm UTC)\n- Jiyoung Lee of University of Alabama (Thursday 2pm PT/5pm ET/9pm UTC)\n- Scott Knowles of COVIDCalls, Korea Advanced Institute of Science and Technology (Friday 5:30am PT/8:30am ET/12:30pm UTC)",
         "everyone": "",
         "facilitators": "",
         "id": "thu-async-science",
@@ -382,7 +382,7 @@
         "day": "Thursday",
         "description": "What happens when a local news outlet prints, publishes or broadcasts  coverage that harms a community, and the community organizes to respond? Learn some advice and tips from Philadelphia organizers and the Philadelphia Inquirer on what journalists and newsroom management can do externally and internally to not only engage in deep listening around community concerns, but incorporate community information needs and recommendations that help structurally change how newsrooms improve, reconcile and address potentially harmful reporting.",
         "everyone": "",
-        "facilitators": "Tauhid Chappell, Jameel Rush, Sabrina Vourvoulias",
+        "facilitators": "Tauhid Chappell, Jameel Rush, Sabrina Vourvoulias, Diamante Ortiz",
         "id": "respond-calls-accountability",
         "social": "",
         "talk": "",
@@ -534,7 +534,7 @@
     {
         "break": "",
         "day": "Friday",
-        "description": "Join the **#session-science-misinfo** channel in our conference Slack for async discussion throughout the day:\n\nExperts in science communication will join from three continents (so we're taking advantage of async in Slack!) to share their research and answer questions about how journalists can report on polarized science topics. These Q&As will lead into Friday's session: \"Covering polarized science topics in a polluted media system.\" You can look for them in particular at these times:\n\n- Jaime Longoria of the Disinfo Defense League (Wednesday 12pm PT/3pm ET/7pm UTC)\n- Stephan Lewandowsky of University of Bristol (Thursday 8:30am PT/11:30am ET/3:30pm UTC)\n- Jiyoung Lee of University of Alabama (Thursday 2pm PT/5pm ET/9pm UTC)\n- Scott Knowles of COVIDCalls, Korea Advanced Institute of Science and Technology (Friday 5:30am PT/8:30am ET/12:30pm UTC)",
+        "description": "Join the **#session-science-misinfo** channel in our conference Slack for async discussion throughout the day:\n\nExperts in science communication will join from three continents (so we're taking advantage of async in Slack!) to share their research and answer questions about how journalists can report on polarized science topics. These Q&As will lead into Friday's session: \"\"Covering polarized science topics in a polluted media system.\"\" You can look for them in particular at these times:\n\n- Jaime Longoria of the Disinfo Defense League (Wednesday 12pm PT/3pm ET/7pm UTC)\n- Stephan Lewandowsky of University of Bristol (Thursday 8:30am PT/11:30am ET/3:30pm UTC)\n- Jiyoung Lee of University of Alabama (Thursday 2pm PT/5pm ET/9pm UTC)\n- Scott Knowles of COVIDCalls, Korea Advanced Institute of Science and Technology (Friday 5:30am PT/8:30am ET/12:30pm UTC)",
         "everyone": "",
         "facilitators": "",
         "id": "fri-async-science",
